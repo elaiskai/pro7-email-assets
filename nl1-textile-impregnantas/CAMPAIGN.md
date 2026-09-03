@@ -13,8 +13,10 @@
 
 - Laiško plotis: 600 px. Maketas responsyvus ir paremtas el. paštui saugiomis lentelėmis.
 - Prieš siuntimą `assets/` vaizdus reikia įkelti į Omnisend CDN ir HTML faile pakeisti santykinius `src` adresus.
-- Naudojama oficiali Omnisend personalizacija: `[[ contact.first_name | default: 'bičiuli' ]]`.
-- Atsisakymo nuoroda naudoja oficialų Omnisend kintamąjį `[[unsubscribe_link]]`.
+- Kreipinys paliktas universalus: `Sveiki,` — be vardo kintamojo, kad kontaktams be vardo neliktų klaidinga skyryba.
+- HTML faile nėra papildomos atsisakymo nuorodos; naudojamas vienas Omnisend automatiškai pridedamas privalomas atsisakymo blokas.
+- Hero yra vienas patikimai mobiliuose el. pašto klientuose rodomas JPG, o ne CSS fonas.
+- Visame laiške naudojama viena el. paštui saugi šriftų šeima: Arial / Helvetica / sans-serif.
 - Prieš siuntimą dar kartą patvirtinkite 23,00 € kainą, likutį ir produkto teiginius su PRO7 atsakingu asmeniu.
 
 ## Vizualų kilmė
