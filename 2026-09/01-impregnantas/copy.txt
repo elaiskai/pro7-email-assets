@@ -1,0 +1,29 @@
+SUBJECT_A: Grįžo lauktas tekstilės impregnantas
+SUBJECT_B: Ar Jūsų tekstilė pasiruošusi rudeniui?
+PREHEADER: Apsaugokite batus, drabužius, baldus ir automobilio saloną prieš drėgnąjį sezoną.
+HERO_ANTRASTE: Laukta prekė grįžo
+HERO_PAANTRASTE: PRO7 Textile Nano Coating, 200 ml - nematoma tekstilės apsauga už 23,00 EUR.
+INTRO: Sveiki,
+Į sandėlį grįžo lauktas PRO7 tekstilės impregnantas. Artėjant drėgniems ir purviniems rudens orams, dabar tinkamas metas pasirūpinti batais, striukėmis, lauko baldais ir automobilio salonu. Mažiau šveitimo - daugiau rezultato prasideda nuo išankstinės apsaugos.
+VERTE_ANTRASTE: Apsauga prieš rudens sezoną
+VERTE_1_TITLE: Iki 12 mėn. apsaugos
+VERTE_1_TEXT: Sukuria nematomą apsauginį sluoksnį nuo vandens ir purvo, kuris išlieka iki 12 mėn.
+VERTE_2_TITLE: Ekologiška sudėtis
+VERTE_2_TEXT: Be PFAS, mikroplastiko ir SLS/SLES. Hipoalerginis, bekvapis ir biologiškai skaidus.
+VERTE_3_TITLE: Audinys išlieka laidus orui
+VERTE_3_TEXT: Apsauginis sluoksnis nepakeičia audinio pralaidumo orui.
+PRITAIKYMAI_ANTRASTE: Kur galite naudoti?
+PRITAIKYMAS_1_TITLE: Batai ir lauko drabužiai
+PRITAIKYMAS_1_TEXT: Impregnuokite batus, striukes ir kitus lauko drabužius prieš drėgnąjį sezoną. Netinka lakuotai odai.
+PRITAIKYMAS_2_TITLE: Baldai ir kita tekstilė
+PRITAIKYMAS_2_TEXT: Tinka vidaus ir lauko baldų audiniams, tentams bei palapinėms.
+PRITAIKYMAS_3_TITLE: Automobilio salonas
+PRITAIKYMAS_3_TEXT: Apsaugokite tekstilinius salono paviršius nuo vandens ir purvo.
+NAUDOJIMAS_ANTRASTE: Kaip naudoti?
+NAUDOJIMAS_1: Nuvalykite ir išdžiovinkite paviršių.
+NAUDOJIMAS_2: Tolygiai purkškite maždaug 20 cm atstumu.
+NAUDOJIMAS_3: Leiskite išdžiūti iki 24 val. Stipriausiai apsaugai užpurkškite antrą sluoksnį.
+ATSILIEPIMAS: „Puikiai apsaugojo šviesias verstos odos šlepetes.“ - klientės įvertinimas 5/5
+CTA_MAIN: Pasirūpinti apsauga
+PS: P.S. Nemokamas pristatymas Lietuvoje užsakymams nuo 45 EUR.
+PARASAS: Su meile švarai, PRO7 komanda
