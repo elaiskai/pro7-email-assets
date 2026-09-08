@@ -11,7 +11,7 @@
 
 - Kontaktas: `[[contact.first_name|default:'bičiuli']]`
 - Kreipinys: `Sveiki, [[contact.first_name|default:'bičiuli']]!`
-- Vienintelė atsisakymo nuoroda: `[[unsubscribe_link]]`
+- HTML faile atsisakymo nuorodos nėra. Sisteminę atsisakymo nuorodą prideda Omnisend.
 - Visame laiške naudojama viena šeima: Montserrat 400 / 500 / 600 / 700, su Arial fallback.
 
 ## Patikrinti live faktai — 2026-09-08
