@@ -5,7 +5,7 @@
 - Sender: `PRO7.LT`
 - Subject A: `Rudens namų resetas per 20 min. 🍂`
 - Subject B: `Kai ruduo į namus parsineša daugiau`
-- Preheader: `Keturi aiškūs žingsniai paviršiams, virtuvei, stiklams ir grindims – mažiau blaškymosi, daugiau rezultato.`
+- Preheader: `Trumpas rudens namų resetas su PRO7 – paviršiams, virtuvei, stiklams, grindims ir įsisenėjusioms dėmėms.`
 
 ## Omnisend
 
@@ -20,10 +20,14 @@
 - Americol Kitchen Degreaser, 750 ml — 18,00 €.
 - PRO7 Glass & Mirror Cleaner, 500 ml — 8,96 €.
 - Floor Cleaner Citrus, 1 l — 10,21 €.
+- PRO7 Stain Hero, 500 ml — 15,76 €.
+- Americol Kitchen Cleaner, 750 ml — 15,20 €.
+- PRO7 Glossy blizginimo šluostė, 50 × 70 cm — 12,50 €.
+- Americol Floor Cleaner, 1 l — 10,21 €.
 - Nemokamas pristatymas Lietuvoje nuo 45 €.
 
 „20 min.“ pateikiama kaip keturių zonų planas po maždaug 5 minutes, o ne garantuota visų namų išvalymo trukmė.
 
 ## Vizualai
 
-Visos produktų nuotraukos atsisiųstos iš aktyvių pro7.lt produktų puslapių. Šiai kampanijai AI vizualai nenaudoti.
+Hero sukurtas iš autentiškų PRO7 produktų nuotraukų ir prekės ženklo spalvų. Laiške pateikiamos 8 vienodo formato produktų kortelės su vienodame aukštyje esančiais CTA. Visos produktų nuotraukos atsisiųstos iš aktyvių pro7.lt produktų puslapių. Šiai kampanijai AI vizualai nenaudoti.
