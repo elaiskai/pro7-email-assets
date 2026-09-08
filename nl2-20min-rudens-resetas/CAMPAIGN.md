@@ -20,14 +20,10 @@
 - Americol Kitchen Degreaser, 750 ml — 18,00 €.
 - PRO7 Glass & Mirror Cleaner, 500 ml — 8,96 €.
 - Floor Cleaner Citrus, 1 l — 10,21 €.
-- PRO7 Stain Hero, 500 ml — 15,76 €.
-- Americol Kitchen Cleaner, 750 ml — 15,20 €.
-- PRO7 Glossy blizginimo šluostė, 50 × 70 cm — 12,50 €.
-- Americol Floor Cleaner, 1 l — 10,21 €.
 - Nemokamas pristatymas Lietuvoje nuo 45 €.
 
 „20 min.“ pateikiama kaip keturių zonų planas po maždaug 5 minutes, o ne garantuota visų namų išvalymo trukmė.
 
 ## Vizualai
 
-Hero sukurtas iš autentiškų PRO7 produktų nuotraukų ir prekės ženklo spalvų. Laiške pateikiamos 8 vienodo formato produktų kortelės su vienodame aukštyje esančiais CTA. Visos produktų nuotraukos atsisiųstos iš aktyvių pro7.lt produktų puslapių. Šiai kampanijai AI vizualai nenaudoti.
+Hero sukurtas iš autentiškų PRO7 produktų nuotraukų ir prekės ženklo spalvų. Laiške pateikiamos 4 kliento nurodytos, tarpusavyje susijusios rudens namų reseto priemonės. Prieš ir po nuotraukos paimtos iš oficialios PRO7 galerijos ir rodo „Super Cleaner“ rezultatą. Visos produktų nuotraukos atsisiųstos iš aktyvių pro7.lt produktų puslapių. Šiai kampanijai AI vizualai nenaudoti.
