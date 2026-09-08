@@ -7,7 +7,7 @@ Patikrinta 2026-09-08. Importuoti `omnisend.html`, vietiniam redagavimui naudoti
 - Paveikslėlių commit: `5192498d5fea85a1396dcabc810df333ac065828`.
 - 12 paveikslėlių nuorodų, visos HTTPS, visos HTTP 200 ir Content-Type image/jpeg arba image/png.
 - Bendras paveikslėlių dydis 924 496 baitai.
-- HTML dydis 25 254 baitai prieš Omnisend apdorojimą.
+- HTML dydis 25 121 baitas prieš Omnisend apdorojimą.
 - 12 unikalių PRO7 nuorodų, visos HTTP 200. Patikrintos ir puslapių h1 antraštės.
 - Produktų ID: 113, 1416, 1283, 1375. Galerijos AMERICOL Glass & Mirror užrašai veda į ID 114.
 - Galerijoje po vieną nuorodą ant kiekvieno paveikslėlio, nėra nuorodomis apgaubtų lentelių.
