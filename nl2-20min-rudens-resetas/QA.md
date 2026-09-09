@@ -13,7 +13,7 @@ Patikrinta 2026-09-08. Importuoti `omnisend.html`, vietiniam redagavimui naudoti
 - Galerijoje po vieną nuorodą ant kiekvieno paveikslėlio, nėra nuorodomis apgaubtų lentelių.
 - Produktų nuotraukos, pavadinimai, kainos ir mygtukai yra paspaudžiami.
 - Eksporte nėra vietinių paveikslėlių adresų, DOCTYPE, head, body, script žymų ar mūsų unsubscribe nuorodos.
-- 2026-09-09 personalizavimas pakeistas: vardas ir skyryba apdorojami vienoje filtrų grandinėje. Su vardu „Sveiki, Monika!“, be vardo „Sveiki!“. Žyma pateikta CAMPAIGN.md.
+- 2026-09-09 vardo personalizavimas pašalintas. Visiems gavėjams palikta `Sveiki,`.
 - Matomame tekste nėra ilgųjų brūkšnių.
 
 ## Maketas
@@ -32,10 +32,8 @@ CTA yra 44 px aukščio. Standartinėje Montserrat peržiūroje plotis 104,11 px
 
 Papildomai patikrintas tikras eksportas su nuotoliniais paveikslėliais 390 px ekrane: visi vaizdai užsikrovė, keturios produktų kortelės, horizontalus plotis 390 px.
 
-PNG/JPG peržiūros naudoja „Sveiki!“ kaip vietinį maketo pavyzdį. Tai nėra Liquid žymos vykdymas Omnisend.
-
-2026-09-09 abiejų HTML failų tikroji pasisveikinimo žyma patikrinta vietiniu LiquidJS varikliu su Omnisend skirtukais: vardas, tuščias tekstas, null, neapibrėžtas vardas, vien tarpai, vardas su kraštiniais tarpais, specialus HTML simbolis ir neegzistuojantis kontaktas. Visi 8 atvejai abiejuose failuose atitiko laukiamą rezultatą. Tai patikrina Liquid filtrų logiką, bet ne Omnisend serverio vykdymą.
+PNG/JPG peržiūros rodo tikrą statinį tekstą „Sveiki,“. Maketo testas tikrina šį tekstą jo nekeisdamas.
 
 ## Kas nepatvirtinta šioje aplinkoje
 
-Omnisend importo apdorojimas, sisteminio footerio įterpimas konkrečioje kampanijoje, tikrų kontaktų personalizavimo vykdymas ir Gmail / Outlook spalvų inversija. Reikia patikrinti importuotame laiške. Jokie laiškai šio darbo metu nesiųsti.
+Omnisend importo apdorojimas, sisteminio footerio įterpimas konkrečioje kampanijoje ir Gmail / Outlook spalvų inversija. Reikia patikrinti importuotame laiške. Jokie laiškai šio darbo metu nesiųsti.

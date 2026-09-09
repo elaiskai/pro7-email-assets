@@ -16,8 +16,8 @@ try {
     await page.goto(new URL('./index.html',import.meta.url).href,{waitUntil:'networkidle'});
     await page.evaluate(()=>document.fonts.ready);
     if (fallback) await page.addStyleTag({content:'body,table,td,a,p,h1,h2,h3,div{font-family:Arial,sans-serif!important}'});
-    // Local layout simulation only. Omnisend must resolve the tag in contact preview.
-    await page.locator('.greeting').evaluate(e=>e.textContent='Sveiki!');
+    // The greeting is static for every recipient, with no contact placeholder.
+    assert.equal(await page.locator('.greeting').textContent(),'Sveiki,');
     const result = await page.evaluate(()=>({
       width:innerWidth,
       scroll:document.documentElement.scrollWidth,

@@ -22,9 +22,7 @@ Store settings → Saved templates → Import template → Paste in code, įklij
 
 Palikti vieną Omnisend sisteminį footerį su atsisakymo nuoroda. Mūsų kode papildomo unsubscribe nėra, pagal kliento pageidavimą. Tai nereiškia, kad [[unsubscribe_link]] žyma nepalaikoma: ji oficiali. Ankstesnio dubliavimo priežastis konkrečioje kampanijoje nepatvirtinta.
 
-Kontaktas: `Sveiki[[ contact.first_name | default: '' | strip | prepend: ', ' | append: '!' | replace: ', !', '!' | escape ]]`
-Su vardu: „Sveiki, Monika!“. Be vardo arba su vien tarpais: „Sveiki!“. Kablelis ir šauktukas apdorojami kartu su vardu, nėra statinio kablelio už žymos. `escape` apsaugo HTML nuo specialių simbolių varde.
-Naudojami tik Liquid filtrai, nes Omnisend kampanijose `if` žymos nepalaikomos. Šaltinis: https://support.omnisend.com/en/articles/11197418-use-liquid-templating-for-message-personalization . Vietinės PNG/JPG peržiūros rodo „Sveiki!“ kaip maketo pavyzdį, tai nėra Omnisend vykdymo testas. Omnisend Test & Preview pasirinkti vieną kontaktą su vardu ir kitą be vardo. Paprastas test email gali rodyti neapdorotas žymas.
+Pasisveikinimas visiems gavėjams: `Sveiki,`. Vardo žymos ir personalizavimo filtrų nėra, pagal 2026-09-09 kliento pageidavimą.
 
 ## Produktai ir kainos
 
@@ -64,7 +62,7 @@ Logo turi nepermatomą baltą pagrindą pačiame PNG. Tamsiam režimui pridėtos
 
 Po pakeistų vizualų commit ir push paleisti `node prepare-omnisend.mjs PILNAS_COMMIT_SHA`. Eksportą peržiūrėti ir įkelti atskiru commit. Jei keičiami vizualai, nenaudoti seno eksporto.
 
-Prieš siuntimą Omnisend patikrinti vieną sisteminį atsisakymo bloką, kontaktų personalizavimą ir tikrus Gmail / Outlook light bei dark laiškus. Šio darbo metu laiškai niekam nesiųsti.
+Prieš siuntimą Omnisend patikrinti vieną sisteminį atsisakymo bloką ir tikrus Gmail / Outlook light bei dark laiškus. Šio darbo metu laiškai niekam nesiųsti.
 
 ## Oficialios instrukcijos
 
