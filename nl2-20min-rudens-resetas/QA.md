@@ -4,12 +4,13 @@ Maketas ir eksportas pakartotinai patikrinti 2026-09-09. Omnisend Custom HTML bl
 
 ## Eksportas
 
-- Paveikslėlių commit: `5192498d5fea85a1396dcabc810df333ac065828`.
-- 12 paveikslėlių nuorodų, visos HTTPS, visos HTTP 200 ir Content-Type image/jpeg arba image/png.
-- Bendras paveikslėlių dydis 924 496 baitai.
+- Paveikslėlių commit: `fd5c6966be6053d51777ea0aad8c20beee034da1`.
+- 10 paveikslėlių nuorodų, visos HTTPS; tikrinamas jų užsikrovimas iš viešų GitHub adresų.
+- Bendras laiške naudojamų paveikslėlių dydis 761 308 baitai.
 - HTML ir CSS pateikiami atskirai. Eksporto HTML neturi style žymų, kritinis pločio valdymas yra inline.
-- 12 unikalių PRO7 nuorodų, visos HTTP 200 patikros 2026-09-08 metu. Patikrintos ir puslapių h1 antraštės. Šios pataisos nuorodų nekeičia.
-- Produktų ID: 113, 1416, 1283, 1375. Galerijos AMERICOL Glass & Mirror užrašai veda į ID 114.
+- 11 unikalių PRO7 nuorodų. Jos buvo ankstesnėje patikrintoje nuorodų aibėje; ID 114 puslapis papildomai patikrintas 2026-09-09.
+- Produktų ID: 113, 1416, 114, 1375. Glass & Mirror pakeistas į Americol 750 ml, 11,23 €. Nuotrauka, pavadinimas, kaina ir CTA veda į ID 114.
+- Dvi prieš / po poros dviem skirtingiems produktams. Nebėra antro pasikartojančio stiklo valymo pavyzdžio. Tikras rasojimo eksperimentas dar negautas ir nepateikiamas kaip įvykęs.
 - Galerijoje po vieną nuorodą ant kiekvieno paveikslėlio, nėra nuorodomis apgaubtų lentelių.
 - Produktų nuotraukos, pavadinimai, kainos ir mygtukai yra paspaudžiami.
 - Eksporte nėra vietinių paveikslėlių adresų, DOCTYPE, head, body, script žymų ar mūsų unsubscribe nuorodos.

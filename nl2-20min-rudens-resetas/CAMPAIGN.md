@@ -39,7 +39,7 @@ Patikrinta pro7.lt 2026-09-08:
 
 - Americol Super Cleaner, 750 ml, 13,83 €.
 - Americol Kitchen Degreaser, 750 ml, 18,00 €.
-- PRO7 Glass & Mirror Cleaner, 500 ml, 8,96 €.
+- Americol Glass & Mirror Cleaner, 750 ml, 11,23 €. Šis variantas papildomai patikrintas pro7.lt 2026-09-09, produkto ID 114, prekės kodas 926-00075.
 - Floor Cleaner Citrus, 1 l, 10,21 €.
 - Nemokamas pristatymas Lietuvoje nuo 45 €.
 
@@ -53,9 +53,12 @@ Visos poros iš https://www.pro7.lt/galerija, susiejimai patikrinti tos pačios 
 | --- | --- | --- | --- |
 | Siena | pries-pro7-valymo-priemones-0f2ed.png | po-pro7-valymo-priemones-48455.png | Americol Super Cleaner, ID 113 |
 | Veidrodis | pries-pro7-valymo-priemones-43f9a.jpg | po-pro7-valymo-priemones-3bbdc.jpg | AMERICOL Glass & Mirror, 750 ml, ID 114 |
-| Langas | pries-pro7-valymo-priemones-3d3e8.jpg | po-pro7-valymo-priemones-5f61f.jpg | AMERICOL Glass & Mirror, 750 ml, ID 114 |
 
-Paskutinės dvi poros nėra tiesioginis atskiro PRO7 500 ml SKU (ID 1283) testas. Laiške įvardytas tikslus AMERICOL variantas, užrašas veda į ID 114. Nuotraukos veda į galeriją. Vaizdai nekeisti, išskyrus sienos poros dydžio ir failo formato optimizavimą.
+Palikta po vieną porą dviem skirtingiems produktams: Super Cleaner ir Americol Glass & Mirror 750 ml. Pasikartojanti lango pora pašalinta iš laiško, jos šaltiniai liko assets archyve. Abiejų porų užrašai veda į tikslų susietą produktą, nuotraukos į galeriją. Vaizdai nekeisti, išskyrus sienos poros dydžio ir failo formato optimizavimą.
+
+Aprasojusio / neaprasojusio veidrodžio tikros eksperimento nuotraukos dar laukiama iš Aistės. Esama veidrodžio pora rodo valymą, ne kontroliuojamą rasojimo eksperimentą. Dirbtinis produkto bandymo rezultatas negeneruotas ir neįdėtas. Subject pagal kliento pageidavimą šiame pakeitime nekeistas.
+
+750 ml buteliuko šaltinis: https://www.pro7.lt/foto/l-americol-stiklo-ir-veidrodziu-valiklis-glass-and-mirror-cleaner-0-75l-e0f23.png . Kortelėje naudojamas originalus failas, hero kontūras išskirtas CSS, nekeičiant etiketės.
 
 Hero sudėtas iš keturių autentiškų produktų nuotraukų. Butelių kontūrai apkirpti CSS maskėmis hero šaltinyje, spalvos ir etiketės negeneruotos. Rastriniai AI vaizdai nenaudoti.
 
