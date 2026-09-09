@@ -17,7 +17,7 @@ try {
     await page.evaluate(()=>document.fonts.ready);
     if (fallback) await page.addStyleTag({content:'body,table,td,a,p,h1,h2,h3,div{font-family:Arial,sans-serif!important}'});
     // Local layout simulation only. Omnisend must resolve the tag in contact preview.
-    await page.locator('.greeting').evaluate(e=>e.textContent='Sveiki, bičiuli!');
+    await page.locator('.greeting').evaluate(e=>e.textContent='Sveiki!');
     const result = await page.evaluate(()=>({
       width:innerWidth,
       scroll:document.documentElement.scrollWidth,

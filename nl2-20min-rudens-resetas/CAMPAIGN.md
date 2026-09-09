@@ -22,8 +22,9 @@ Store settings → Saved templates → Import template → Paste in code, įklij
 
 Palikti vieną Omnisend sisteminį footerį su atsisakymo nuoroda. Mūsų kode papildomo unsubscribe nėra, pagal kliento pageidavimą. Tai nereiškia, kad [[unsubscribe_link]] žyma nepalaikoma: ji oficiali. Ankstesnio dubliavimo priežastis konkrečioje kampanijoje nepatvirtinta.
 
-Kontaktas: `Sveiki, [[contact.first_name|default:'bičiuli']]!`
-Sintaksė patikrinta pagal Omnisend dokumentaciją. Vietinės PNG/JPG peržiūros rodo „Sveiki, bičiuli!“ kaip maketo pavyzdį, tai nėra Omnisend vykdymo testas. Omnisend Test & Preview pasirinkti vieną kontaktą su vardu ir kitą be vardo. Paprastas test email gali rodyti neapdorotas žymas.
+Kontaktas: `Sveiki[[ contact.first_name | default: '' | strip | prepend: ', ' | append: '!' | replace: ', !', '!' | escape ]]`
+Su vardu: „Sveiki, Monika!“. Be vardo arba su vien tarpais: „Sveiki!“. Kablelis ir šauktukas apdorojami kartu su vardu, nėra statinio kablelio už žymos. `escape` apsaugo HTML nuo specialių simbolių varde.
+Naudojami tik Liquid filtrai, nes Omnisend kampanijose `if` žymos nepalaikomos. Šaltinis: https://support.omnisend.com/en/articles/11197418-use-liquid-templating-for-message-personalization . Vietinės PNG/JPG peržiūros rodo „Sveiki!“ kaip maketo pavyzdį, tai nėra Omnisend vykdymo testas. Omnisend Test & Preview pasirinkti vieną kontaktą su vardu ir kitą be vardo. Paprastas test email gali rodyti neapdorotas žymas.
 
 ## Produktai ir kainos
 
