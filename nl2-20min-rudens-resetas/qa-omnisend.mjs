@@ -14,6 +14,9 @@ assert.ok(!/1283-pro7|500 ml|8,96/.test(html),'Old Glass 500 ml variant must not
 assert.ok(html.includes('Americol Glass &amp; Mirror, 750 ml'));
 assert.ok(html.includes('11,23 €'));
 assert.equal((html.match(/class="proof"/g)||[]).length,3,'One proof pair per product');
+assert.ok(!/before-super-cleaner-email|after-super-cleaner-email|Siena prieš|Siena po/.test(html),'Old wall proof removed');
+assert.ok(html.includes('super-cleaner-chairs-before-email.jpg')&&html.includes('super-cleaner-chairs-after-email.jpg'));
+assert.ok(html.indexOf('super-cleaner-chairs-before-email.jpg')<html.indexOf('super-cleaner-chairs-after-email.jpg'),'Chair proof order: before, after');
 assert.ok(html.indexOf('kitchen-degreaser-before-email.jpg')<html.indexOf('kitchen-degreaser-after-email.jpg'),'Kitchen proof order: before, after');
 assert.ok(urls.every(u=>u.startsWith('https://raw.githubusercontent.com/elaiskai/pro7-email-assets/')));
 const browser=await chromium.launch();
