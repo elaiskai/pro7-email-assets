@@ -9,11 +9,12 @@ const css=readFileSync(new URL('./omnisend-styles.css',import.meta.url),'utf8');
 assert.ok(!/<(?:style|head|body|div|script)\b|<!doctype|contact\.first_name|unsubscribe_link/i.test(html));
 assert.ok(!/<\/?style\b/i.test(css));
 const urls=[...html.matchAll(/src="([^"]+)"/g)].map(m=>m[1]);
-assert.equal(urls.length,10);
+assert.equal(urls.length,12);
 assert.ok(!/1283-pro7|500 ml|8,96/.test(html),'Old Glass 500 ml variant must not remain');
 assert.ok(html.includes('Americol Glass &amp; Mirror, 750 ml'));
 assert.ok(html.includes('11,23 €'));
-assert.equal((html.match(/class="proof"/g)||[]).length,2,'One proof pair per product');
+assert.equal((html.match(/class="proof"/g)||[]).length,3,'One proof pair per product');
+assert.ok(html.indexOf('kitchen-degreaser-before-email.jpg')<html.indexOf('kitchen-degreaser-after-email.jpg'),'Kitchen proof order: before, after');
 assert.ok(urls.every(u=>u.startsWith('https://raw.githubusercontent.com/elaiskai/pro7-email-assets/')));
 const browser=await chromium.launch();
 const cases=[

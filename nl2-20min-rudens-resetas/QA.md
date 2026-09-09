@@ -4,13 +4,13 @@ Maketas ir eksportas pakartotinai patikrinti 2026-09-09. Omnisend Custom HTML bl
 
 ## Eksportas
 
-- Paveikslėlių commit: `fd5c6966be6053d51777ea0aad8c20beee034da1`.
-- 10 paveikslėlių nuorodų, visos HTTPS; tikrinamas jų užsikrovimas iš viešų GitHub adresų.
-- Bendras laiške naudojamų paveikslėlių dydis 761 308 baitai.
+- Paveikslėlių commit: `19673d591aebc471332e1b536290d04e2dd6ef27`.
+- 12 paveikslėlių nuorodų, visos HTTPS; tikrinamas jų užsikrovimas iš viešų GitHub adresų.
+- Bendras laiške naudojamų paveikslėlių dydis 1 030 543 baitai.
 - HTML ir CSS pateikiami atskirai. Eksporto HTML neturi style žymų, kritinis pločio valdymas yra inline.
 - 11 unikalių PRO7 nuorodų. Jos buvo ankstesnėje patikrintoje nuorodų aibėje; ID 114 puslapis papildomai patikrintas 2026-09-09.
 - Produktų ID: 113, 1416, 114, 1375. Glass & Mirror pakeistas į Americol 750 ml, 11,23 €. Nuotrauka, pavadinimas, kaina ir CTA veda į ID 114.
-- Dvi prieš / po poros dviem skirtingiems produktams. Nebėra antro pasikartojančio stiklo valymo pavyzdžio. Tikras rasojimo eksperimentas dar negautas ir nepateikiamas kaip įvykęs.
+- Trys prieš / po poros trims skirtingiems produktams. Kitchen Degreaser porą pateikė ir produktui priskyrė klientas. Kairėje nevalyta kaitlentė, dešinėje nuvalyta; vaizdai neretušuoti. Abiejų nuotraukų ir užrašo nuorodos veda į ID 1416. Tikras rasojimo eksperimentas dar negautas ir nepateikiamas kaip įvykęs.
 - Galerijoje po vieną nuorodą ant kiekvieno paveikslėlio, nėra nuorodomis apgaubtų lentelių.
 - Produktų nuotraukos, pavadinimai, kainos ir mygtukai yra paspaudžiami.
 - Eksporte nėra vietinių paveikslėlių adresų, DOCTYPE, head, body, script žymų ar mūsų unsubscribe nuorodos.

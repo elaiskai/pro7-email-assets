@@ -47,14 +47,16 @@ Stiklo valiklio puslapis patvirtina apsaugą nuo rasojimo. Vadovautis produkto n
 
 ## Prieš ir po kilmė
 
-Visos poros iš https://www.pro7.lt/galerija, susiejimai patikrinti tos pačios galerijos kortelės produkto nuorodoje:
+Super Cleaner ir Glass & Mirror poros iš https://www.pro7.lt/galerija, susiejimai patikrinti tos pačios galerijos kortelės produkto nuorodoje. Kitchen Degreaser porą pateikė klientas šiame pokalbyje ir aiškiai priskyrė šiam produktui; jos kilmė nėra PRO7 viešoji galerija.
 
 | Pora | Prieš failas | Po failas | Galerijos susietas produktas |
 | --- | --- | --- | --- |
 | Siena | pries-pro7-valymo-priemones-0f2ed.png | po-pro7-valymo-priemones-48455.png | Americol Super Cleaner, ID 113 |
 | Veidrodis | pries-pro7-valymo-priemones-43f9a.jpg | po-pro7-valymo-priemones-3bbdc.jpg | AMERICOL Glass & Mirror, 750 ml, ID 114 |
 
-Palikta po vieną porą dviem skirtingiems produktams: Super Cleaner ir Americol Glass & Mirror 750 ml. Pasikartojanti lango pora pašalinta iš laiško, jos šaltiniai liko assets archyve. Abiejų porų užrašai veda į tikslų susietą produktą, nuotraukos į galeriją. Vaizdai nekeisti, išskyrus sienos poros dydžio ir failo formato optimizavimą.
+Palikta po vieną porą trims skirtingiems produktams: Super Cleaner, Kitchen Degreaser ir Americol Glass & Mirror 750 ml. Pasikartojanti lango pora pašalinta iš laiško, jos šaltiniai liko assets archyve. Užrašai veda į tikslų susietą produktą, viešosios galerijos nuotraukos į galeriją, Kitchen Degreaser nuotraukos į produkto ID 1416 puslapį.
+
+Kitchen Degreaser originalai: `kitchen-degreaser-before-source.png` (nevalyta kaitlentė, pateiktas failas df81f39c) ir `kitchen-degreaser-after-source.png` (nuvalyta kaitlentė, pateiktas failas be4a8540). Laiško kopijos yra 600 × 600 px JPEG, be apkirpimo ar retušavimo. Siuntimo tvarka nesutapo su prieš / po tvarka, todėl nevalyta nuotrauka įdėta kairėje, nuvalyta dešinėje. Rezultatui nepriskiriamas konkretus valymo laikas.
 
 Aprasojusio / neaprasojusio veidrodžio tikros eksperimento nuotraukos dar laukiama iš Aistės. Esama veidrodžio pora rodo valymą, ne kontroliuojamą rasojimo eksperimentą. Dirbtinis produkto bandymo rezultatas negeneruotas ir neįdėtas. Subject pagal kliento pageidavimą šiame pakeitime nekeistas.
 
