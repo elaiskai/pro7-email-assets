@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+.pro7-email{margin:0 auto!important;padding:0!important;width:100%!important;background:#edf1ef}
+.pro7-email table{border-collapse:collapse!important;border-spacing:0!important}
+.pro7-email img{border:0;display:block;outline:none;text-decoration:none}
+.pro7-email a{text-decoration:none}
+.pro7-email .preheader{display:none!important;visibility:hidden;opacity:0;color:transparent;height:0;width:0;overflow:hidden;mso-hide:all}
+.pro7-email{color-scheme:light dark;supported-color-schemes:light dark}
+.pro7-email,.pro7-email table,.pro7-email td,.pro7-email a,.pro7-email p,.pro7-email h1,.pro7-email h2,.pro7-email h3,.pro7-email div{font-family:Montserrat,Arial,sans-serif}
+.pro7-email table,.pro7-email td{mso-table-lspace:0pt;mso-table-rspace:0pt}
+.pro7-email .button a{mso-padding-alt:0;text-decoration:none}
+.pro7-email .proof{table-layout:fixed}
+    @media(max-width:560px){
+.pro7-email .shell{width:100%!important;table-layout:fixed}
+.pro7-email .outer{padding:0!important}
+.pro7-email .pad{padding-left:22px!important;padding-right:22px!important}
+.pro7-email .logo{width:132px!important}
+.pro7-email .step-time{width:52px!important}
+.pro7-email .product-col{max-width:100%!important}
+.pro7-email .product-gutter{padding-left:0!important;padding-right:0!important}
+.pro7-email .header{padding:14px 18px!important}
+.pro7-email .header-label{font-size:10px!important;letter-spacing:.5px!important}
+.pro7-email .nav{font-size:10px!important;padding:15px 3px!important}
+.pro7-email .product-col{box-sizing:border-box}
+.pro7-email .product-card{height:auto!important}
+.pro7-email .product-img{width:185px!important;height:185px!important}
+.pro7-email .button a{white-space:normal!important}
+.pro7-email .greeting{overflow-wrap:anywhere}
+    }
+    @media(prefers-color-scheme:dark){
+.pro7-email,.pro7-email .canvas{background:#141b18!important}
+.pro7-email .shell,.pro7-email .surface{background:#1c2621!important}
+.pro7-email .panel,.pro7-email .product-card{background:#27342d!important}
+.pro7-email .shell td,.pro7-email .shell p,.pro7-email .shell h2,.pro7-email .shell h3,.pro7-email .shell div{color:#edf4ef!important}
+.pro7-email .shell a{color:#9fe5bb!important}
+.pro7-email .shell .muted{color:#c4d0c9!important}
+.pro7-email .shell .bar,.pro7-email .shell .button{background:#21663f!important}
+.pro7-email .shell .bar,.pro7-email .shell .button a{color:#ffffff!important}
+.pro7-email .step-time p{background:#254333!important;color:#b3ebc9!important}
+    }
+[data-ogsc] .pro7-email .surface{background:#1c2621!important}
+[data-ogsc] .pro7-email .panel,[data-ogsc] .pro7-email .product-card{background:#27342d!important}
+[data-ogsc] .pro7-email .shell td,[data-ogsc] .pro7-email .shell p,[data-ogsc] .pro7-email .shell h2,[data-ogsc] .pro7-email .shell h3,[data-ogsc] .pro7-email .shell div{color:#edf4ef!important}
+[data-ogsc] .pro7-email .shell a{color:#9fe5bb!important}
+[data-ogsc] .pro7-email .shell .button,[data-ogsc] .pro7-email .shell .bar{background:#21663f!important}
+[data-ogsc] .pro7-email .shell .button a,[data-ogsc] .pro7-email .shell .bar{color:#ffffff!important}
+[data-ogsc] .pro7-email .step-time p{background:#254333!important;color:#b3ebc9!important}
