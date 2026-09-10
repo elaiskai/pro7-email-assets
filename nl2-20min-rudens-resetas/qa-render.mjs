@@ -24,6 +24,8 @@ try {
       brokenImages:[...document.images].filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.src),
       cards:document.querySelectorAll('.product-card').length,
       wrappedTables:document.querySelectorAll('a table').length,
+      stepColors:[...document.querySelectorAll('.step-time p')].map(e=>[getComputedStyle(e).backgroundColor,getComputedStyle(e).color].join('/')),
+      glass:(()=>{const e=document.querySelector('.product-img-glass'),r=e.getBoundingClientRect();return {ratio:r.width/r.height,naturalRatio:e.naturalWidth/e.naturalHeight}})(),
       buttons:[...document.querySelectorAll('.product-card .button a')].map(a=>{const r=a.getBoundingClientRect();return {y:r.y,width:r.width,height:r.height}}),
       unsubscribe:document.querySelectorAll('a[href*="unsubscribe"]').length
     }));
@@ -31,6 +33,9 @@ try {
     assert.equal(result.wrappedTables,0);
     assert.equal(result.unsubscribe,0);
     assert.deepEqual(result.brokenImages,[]);
+    assert.equal(result.stepColors.length,4);
+    assert.equal(new Set(result.stepColors).size,1,'All step badges share the same colors');
+    assert.ok(Math.abs(result.glass.ratio-result.glass.naturalRatio)<0.001,'Glass image keeps its native aspect ratio');
     assert.ok(result.scroll<=width,`Horizontal overflow in ${name}`);
     assert.ok(result.buttons.every(b=>b.height>=44));
     assert.ok(result.buttons.every(b=>Math.abs(b.width-result.buttons[0].width)<1));

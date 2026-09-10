@@ -49,6 +49,8 @@ try {
         outsideColor:getComputedStyle(document.querySelector('#outside')).color,
         brokenImages:[...document.images].filter(i=>!i.complete||!i.naturalWidth).length,
         greeting:document.querySelector('.greeting').textContent,
+        stepColors:[...document.querySelectorAll('.step-time p')].map(e=>[getComputedStyle(e).backgroundColor,getComputedStyle(e).color].join('/')),
+        glass:(()=>{const e=document.querySelector('.product-img-glass'),r=e.getBoundingClientRect();return {ratio:r.width/r.height,naturalRatio:e.naturalWidth/e.naturalHeight}})(),
         cards:[...document.querySelectorAll('.product-card')].map(box),
         buttons:[...document.querySelectorAll('.product-card .button a')].map(box),
         overflow:[...root.querySelectorAll('table,img,p,h2,h3,a')].filter(e=>{
@@ -64,6 +66,9 @@ try {
     assert.equal(result.brokenImages,0,name+': images');
     assert.equal(result.outsideColor,'rgb(123, 45, 67)',name+': scope');
     assert.equal(result.greeting,'Sveiki,');
+    assert.equal(result.stepColors.length,4);
+    assert.equal(new Set(result.stepColors).size,1,name+': matching step badges');
+    assert.ok(Math.abs(result.glass.ratio-result.glass.naturalRatio)<0.001,name+': Glass aspect ratio');
     assert.equal(result.cards.length,4);
     assert.ok(result.buttons.every(b=>b.height>=44));
     if(width>=600) {

@@ -63,9 +63,11 @@ Kitchen Degreaser originalai: `kitchen-degreaser-before-source.png` (nevalyta ka
 
 Aprasojusio / neaprasojusio veidrodžio tikros eksperimento nuotraukos dar laukiama iš Aistės. Esama veidrodžio pora rodo valymą, ne kontroliuojamą rasojimo eksperimentą. Dirbtinis produkto bandymo rezultatas negeneruotas ir neįdėtas. Subject pagal kliento pageidavimą šiame pakeitime nekeistas.
 
-750 ml buteliuko šaltinis: https://www.pro7.lt/foto/l-americol-stiklo-ir-veidrodziu-valiklis-glass-and-mirror-cleaner-0-75l-e0f23.png . Kortelėje naudojamas originalus failas, hero kontūras išskirtas CSS, nekeičiant etiketės.
+750 ml buteliuko nuotrauka 2026-09-10 pakeista Aistės pateiktu permatomu 524 × 1250 px PNG: `glass-mirror-750-client.png`. Kortelėje ir hero išlaikomos originalios proporcijos, etiketė nekeista. Kortelėje ši nuotrauka nebeturi kvadratinį dydį nustatančios product-img klasės; hero šiam buteliukui nebetaikoma CSS kontūro kaukė.
 
-Hero sudėtas iš keturių autentiškų produktų nuotraukų. Butelių kontūrai apkirpti CSS maskėmis hero šaltinyje, spalvos ir etiketės negeneruotos. Rastriniai AI vaizdai nenaudoti.
+Hero sudėtas iš keturių autentiškų produktų nuotraukų. Trijų kitų butelių kontūrai apkirpti CSS maskėmis hero šaltinyje, Glass & Mirror naudoja originalų skaidrų foną. Spalvos ir etiketės negeneruotos. Rastriniai AI vaizdai nenaudoti.
+
+Visų keturių 5 min ratukų šviesaus režimo fonas #e8f6f0, tekstas #21663f. Tamsaus režimo spalvos taip pat vienodos. Subject ir kita laiško kopija šioje pataisoje nekeisti.
 
 ## Tipografija ir pašto klientai
 

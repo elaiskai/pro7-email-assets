@@ -1,12 +1,12 @@
 # NL2 patikros rezultatai
 
-Maketas ir eksportas pakartotinai patikrinti 2026-09-09. Omnisend Custom HTML bloke naudoti `omnisend.html` ir `omnisend-styles.css` atskiruose HTML ir Styles laukuose. Vietiniam redagavimui naudoti `index.html`.
+Maketas ir eksportas pakartotinai patikrinti 2026-09-10. Omnisend Custom HTML bloke naudoti `omnisend.html` ir `omnisend-styles.css` atskiruose HTML ir Styles laukuose. Vietiniam redagavimui naudoti `index.html`.
 
 ## Eksportas
 
-- Paveikslėlių commit: `00952623221b16e9c7082c4826b43da69c2dc98a`.
+- Paveikslėlių commit: `9ac591919371927874476480b79d537c65786c09`.
 - 12 paveikslėlių nuorodų, visos HTTPS; tikrinamas jų užsikrovimas iš viešų GitHub adresų.
-- Bendras laiške naudojamų paveikslėlių dydis 1 083 414 baitai.
+- Bendras laiške naudojamų paveikslėlių dydis 1 171 432 baitai.
 - HTML ir CSS pateikiami atskirai. Eksporto HTML neturi style žymų, kritinis pločio valdymas yra inline.
 - 11 unikalių PRO7 nuorodų. Jos buvo ankstesnėje patikrintoje nuorodų aibėje; ID 114 puslapis papildomai patikrintas 2026-09-09.
 - Produktų ID: 113, 1416, 114, 1375. Glass & Mirror pakeistas į Americol 750 ml, 11,23 €. Nuotrauka, pavadinimas, kaina ir CTA veda į ID 114.
@@ -31,6 +31,8 @@ Vietinėje Chromium peržiūroje patikrinta:
 | 700 px, Arial pakaitalas | gerai | abiejose eilėse sulygiuoti |
 
 CTA yra 44 px aukščio. Standartinėje Montserrat peržiūroje plotis 104,11 px, su Arial 99,97 px. Balto teksto kontrastas ant #21663f fono apie 6,91:1.
+
+2026-09-10 visų keturių 5 min ratukų fono ir teksto spalvos suvienodintos. Testai tikrina jų vienodumą šviesiu ir tamsiu režimu bei be CSS. Glass & Mirror pakeistas kliento pateiktu skaidriu 524 × 1250 px PNG. Kortelės nuotraukos plotis automatinis, aukštis 185 px; jai nebetaikoma kvadratinė product-img taisyklė. Testuose tikrinama, kad rodomas ir natūralus pločio / aukščio santykiai sutaptų 0,001 tikslumu. Hero naudojamas tas pats originalas be kontūro kaukės, su išsaugotomis proporcijomis.
 
 ## Omnisend bloko regresijos patikra
 
