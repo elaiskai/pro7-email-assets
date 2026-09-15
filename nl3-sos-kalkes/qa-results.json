@@ -1,0 +1,317 @@
+[
+  {
+    "name": "desktop",
+    "width": 800,
+    "scroll": 800,
+    "shells": [
+      {
+        "w": 600,
+        "x": 100,
+        "parentW": 600,
+        "parentX": 100
+      },
+      {
+        "w": 600,
+        "x": 100,
+        "parentW": 600,
+        "parentX": 100
+      },
+      {
+        "w": 600,
+        "x": 100,
+        "parentW": 600,
+        "parentX": 100
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000014805837495801555,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "scroll": 390,
+    "shells": [
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      },
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      },
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000022503991714106775,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "narrow",
+    "width": 320,
+    "scroll": 320,
+    "shells": [
+      {
+        "w": 320,
+        "x": 0,
+        "parentW": 320,
+        "parentX": 0
+      },
+      {
+        "w": 320,
+        "x": 0,
+        "parentW": 320,
+        "parentX": 0
+      },
+      {
+        "w": 320,
+        "x": 0,
+        "parentW": 320,
+        "parentX": 0
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000027315413307360537,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "dark",
+    "width": 390,
+    "scroll": 390,
+    "shells": [
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      },
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      },
+      {
+        "w": 390,
+        "x": 0,
+        "parentW": 390,
+        "parentX": 0
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000022503991714106775,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "editor-narrow",
+    "width": 1200,
+    "scroll": 1200,
+    "shells": [
+      {
+        "w": 320,
+        "x": 440,
+        "parentW": 320,
+        "parentX": 440
+      },
+      {
+        "w": 320,
+        "x": 440,
+        "parentW": 320,
+        "parentX": 440
+      },
+      {
+        "w": 320,
+        "x": 440,
+        "parentW": 320,
+        "parentX": 440
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000027315413307360537,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "no-css",
+    "width": 320,
+    "scroll": 320,
+    "shells": [
+      {
+        "w": 304,
+        "x": 8,
+        "parentW": 304,
+        "parentX": 8
+      },
+      {
+        "w": 304,
+        "x": 8,
+        "parentW": 304,
+        "parentX": 8
+      },
+      {
+        "w": 304,
+        "x": 8,
+        "parentW": 304,
+        "parentX": 8
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000010855526381248204,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  },
+  {
+    "name": "wide-host",
+    "width": 1200,
+    "scroll": 1200,
+    "shells": [
+      {
+        "w": 600,
+        "x": 300,
+        "parentW": 800,
+        "parentX": 200
+      },
+      {
+        "w": 600,
+        "x": 300,
+        "parentW": 800,
+        "parentX": 200
+      },
+      {
+        "w": 600,
+        "x": 300,
+        "parentW": 800,
+        "parentX": 200
+      }
+    ],
+    "imageCount": 10,
+    "comparisonCount": 4,
+    "broken": [],
+    "ratios": [
+      0.000014805837495801555,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.000009380291548621855
+    ],
+    "ctas": [
+      52,
+      52
+    ],
+    "font": true
+  }
+]

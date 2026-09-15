@@ -1,0 +1,12 @@
+Use case: ads-marketing. Create a polished Lithuanian PRO7 email hero, portrait 4:5, high resolution, using attached images as authentic references.
+Input 1 is ONLY the composition reference, do not copy BECO brand, its bottle, English words or shopping bag illustrations. Input 2 is the exact authentic PRO7 AMECID black trigger bottle, preserve its shape, proportions, trigger and green label with AMECID and PRO7 unchanged. Input 3 is the official PRO7 logo artwork if needed.
+Art direction: original editorial product photography inspired by the reference: two equal columns, big beautifully spaced Montserrat SemiBold/Bold typography above them, left a realistic human hand entering from bottom left holding a white paper checklist at a slight angle, right one large authentic AMECID bottle upright. Studio background pale warm off-white #f3f1e9 softly grading toward pale PRO7 green #e8f6f0. Dark PRO7 green #21663f for main typography, black bottle, small brighter green #42bd7c accents. Natural soft light from upper left, soft believable shadows and paper texture. Spacious, premium, legible at 600px width, not a busy flyer. No orange. Product must be large, natural ratio, no stretched bottle, no white rectangle around product.
+Top small centered eyebrow exact: "SOS. KALKĖS PUOLA?"
+Left column headline on two lines exactly: "Reikia" then "nuvalyti".
+Right column headline on two lines exactly: "Verta" then "turėti".
+White paper contains three outlined empty checkboxes and exactly these three short Lithuanian lines, set in legible Montserrat Regular, with ample breathing room:
+"Čiaupus"
+"Dušo stiklą"
+"Kalkių apnašas"
+Bottom right, below bottle and clear of label, a refined dark green rounded offer panel with large white "10 %" and smaller exact "nuolaida" then "prenumeratoriams". This is ONE coherent offer, no discount code, no expiry, no fake price. Keep all bottom text safely inside image.
+Constraints: exact Lithuanian diacritics: "SOS. KALKĖS PUOLA?", "Reikia", "nuvalyti", "Verta", "turėti", "Čiaupus", "Dušo stiklą", "Kalkių apnašas", "10 %", "nuolaida", "prenumeratoriams". No dash punctuation. Preserve recognizable authentic package and official logo from input, never BECO. Only one bottle and one hand with natural anatomy. No extra body copy, no unrelated decoration, no fake before/after photo, no watermark. Product label naturally photographic, do not invent package claims.
