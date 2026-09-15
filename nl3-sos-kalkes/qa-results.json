@@ -23,11 +23,12 @@
         "parentX": 100
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000014805837495801555,
+      0,
       0,
       0,
       0,
@@ -68,11 +69,12 @@
         "parentX": 0
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000022503991714106775,
+      0,
       0,
       0,
       0,
@@ -113,11 +115,12 @@
         "parentX": 0
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000027315413307360537,
+      0,
       0,
       0,
       0,
@@ -158,11 +161,12 @@
         "parentX": 0
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000022503991714106775,
+      0,
       0,
       0,
       0,
@@ -203,11 +207,12 @@
         "parentX": 440
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000027315413307360537,
+      0,
       0,
       0,
       0,
@@ -248,11 +253,12 @@
         "parentX": 8
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000010855526381248204,
+      0,
       0,
       0,
       0,
@@ -293,11 +299,12 @@
         "parentX": 200
       }
     ],
-    "imageCount": 10,
+    "imageCount": 11,
     "comparisonCount": 4,
     "broken": [],
     "ratios": [
       0.000014805837495801555,
+      0,
       0,
       0,
       0,

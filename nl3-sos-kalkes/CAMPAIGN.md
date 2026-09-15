@@ -1,28 +1,28 @@
 # PRO7 NL3, rugsėjo 15 d.
 
-Statusas: patvirtintas maketas, paruošti GitHub failai ir Omnisend blokų eksportai. Nesiųsta, į Omnisend neįkelta. Asset commit: aab87f39e6e31a00540e6d946c9a26675ca6fff0.
-
-Patvirtintas hero v4: 10 % pasiūlymas rodomas per visą plotį žalioje juostoje. Vartotojas patvirtino ir paprašė publikuoti GitHub. V3 ir visas ankstesnis maketas išsaugoti, žr. HERO-REVERT.md. Naudotas integruotas imagegen, hero-prompt-v4.txt.
-
-Footerio dizainas sulygintas su NL2: centruotas šviesiai pilkas #f3f5f4 blokas, 22px 28px tarpai, Montserrat 10px/17px, PRO7.LT · Profesionalios švaros priemonės. Paliktas naujai paprašytas paaiškinimas apie prenumeratą arba kliento statusą. Atskiras apatinis logotipas ir skiriamoji linija pašalinti iš maketo. Atsisakymą teikia tik Omnisend sistema.
-
-Produkto kainos atvaizdavimas vartotojo prašymu: perbraukta 32,21 €, šalia 28,99 € su asmeniniu 10 % nuolaidos kodu. Skaičiavimas 32,21 × 0,90 = 28,989, suapvalinta iki centų. Tai sąlyginė kaina su kodu, ne automatinė parduotuvės akcijos kaina. Antraštė pakeista į AMECID kalkėms ir rūdims.
+Dabartinė versija: hero v5, Reikia nuvalyti ant lapelio, nuvalyti ir turėti tokios pat žalios spalvos. Prompt: hero-prompt-v5.txt. Ankstesni hero išsaugoti.
 
 Tema: SOS! Kalkės puola!
 
 Preheader: Kalkėms blogos naujienos. Jums 10 % nuolaida.
 
-Siuntėjas: PRO7.LT. Auditorija: sutarti tinkami prenumeratoriai, visa bazė pagal kampanijos atrankos taisykles.
+Siuntėjas: PRO7.LT.
 
-## Nuolaida ir surinkimas
+## Nuolaida ir eksportas
 
-Patvirtinta: 10 % prenumeratoriams, kiekvienas gaus savo unikalų kodą. Galiojimas ir išimtys dar nepatvirtinti. Nei kodo, nei galiojimo datos negeneruoti išgalvojant.
+Naujausias vartotojo sprendimas pakeičia ankstesnį unikalių kodų planą: bendras kodas KALKES, 10 % nuolaida. Aistės patvirtintas terminas nuo šiandien, 2026 m. rugsėjo 15 d., iki rugsėjo 20 d. imtinai. Papildomos išimtys ar tiksli pabaigos valanda neišgalvotos.
 
-index.html viduryje matoma PERŽIŪROS VIETA nėra veikiantis kodas ir negali likti siuntime. Galutinis laiškas surenkamas: omnisend-top.html, tikras sukonfigūruotas asmeninio kodo elementas, omnisend-bottom.html, vienas Omnisend sistemos footeris. Abu HTML blokai turi atskirą omnisend-styles.css. Host plotis daugiausia 600px, be papildomo horizontalaus padding.
+Perbraukta kaina 32,21 €, su kodu 28,99 €. Skaičiavimas 32,21 × 0,90 = 28,989, suapvalinta iki centų. Tai kaina su kodu, ne automatinė parduotuvės akcijos kaina.
 
-Unikalių kodų integracija priklauso nuo parduotuvės platformos. Jei naudojami importuoti kodai, reikia realaus kontakto custom property ir visų gavėjų duomenų patikros. Vien tekstinis žymuo kodo parduotuvėje nesukuria. https://support.omnisend.com/en/articles/6091933-ecommerce-platforms-add-configure-discount-item
+omnisend.html: visas laiškas viename Custom HTML bloke, omnisend-styles.css į Styles lauką. Pašalinti ankstesnį atskirą asmeninio kodo bloką. Palikti vieną Omnisend sistemos atsisakymo footerį. Canvas iki 600 px, horizontalus padding 0. hero-omnisend.html: tik hero.
 
-Vieši assets įkelti, abu HTML blokai eksportuoti su paskelbtu pilnu asset commit SHA. Visos 10 naudojamų viešų nuotraukų nuorodų grąžino HTTP 200, blokai patikrinti 320px ir 600px konteineriuose. Prieš siuntimą dar reikia patvirtinti galiojimą ir aprėptį, patikrinti realaus kodo pritaikymą krepšelyje, atlikti Omnisend peržiūrą ir bandomą siuntimą.
+11 vaizdų, keturios prieš ir po poros. Viešo asset commit SHA nurodytas qa-public-results.json ir eksportuose. Omnisend paskyra nekeista, kampanija nesiųsta. Patikrinti KALKES krepšelyje, kampanijos subject su ė ir bandomą siuntimą prieš siunčiant.
+
+## Klientės pateiktas atsiliepimas
+
+Pateiktas vienas 1080 × 1350 failas: 0323_atsiliepimas 1080x1350.png. Originalas assets/milda-review-original.png, optimizuotas assets/milda-review.jpg. Nuotrauka ir jos tekstas neretušuoti. Priskyrimas Mildai ir AMECID yra kliento pateiktame vaizde, nepriklausomai neverifikuotas. Po vaizdu pakartota trumpa tiksli ištrauka skaitomumui telefone.
+
+## Ankstesnio maketo šaltiniai ir istorija
 
 ## Šaltiniai, tikrinti 2026 09 15
 

@@ -31,13 +31,18 @@ for(const [name,viewport,host,dark,noCSS] of [
   }));
   assert.ok(result.scroll<=viewport,name+' page overflow');
   assert.deepEqual(result.broken,[]);assert.ok(result.ratios.every(r=>r<.002));
-  assert.equal(result.imageCount,10);assert.equal(result.comparisonCount,4);
+  assert.equal(result.imageCount,11);assert.equal(result.comparisonCount,4);
   assert.ok(!result.text.includes('Kalkės mėgsta priminti apie save'));
   assert.ok(!result.text.includes('Vienas darbas mažiau'));
   assert.equal(await page.locator('del').textContent(),'32,21 €');
   assert.equal(await page.locator('.discount-price').textContent(),'28,99 €');
   assert.equal((32.21*.9).toFixed(2),'28.99');
-  assert.ok(result.text.includes('Su Jūsų asmeniniu 10 % nuolaidos kodu.'));
+  assert.ok(result.text.includes('Su 10 % nuolaidos kodu KALKES.'));
+  assert.equal(await page.locator('.coupon-code').textContent(),'KALKES');
+  assert.ok((await page.locator('.offer-dates').textContent()).includes('iki rugsėjo 20 d. imtinai.'));
+  assert.ok(!/asmenin|PERŽIŪROS VIETA|COUPON_SLOT/.test(result.text));
+  assert.equal(await page.title(),'SOS! Kalkės puola!');
+  assert.equal(await page.locator('.review-img').count(),1);
   assert.ok(result.text.includes('Šį laišką gavote, nes prenumeruojate PRO7 naujienlaiškius arba esate mūsų klientas.'));
   assert.equal(await page.locator('a[href*="unsubscribe"]').count(),0);
   assert.equal(await page.locator('.campaign-footer').count(),1);
@@ -50,6 +55,7 @@ for(const [name,viewport,host,dark,noCSS] of [
   assert.ok(result.links.every(l=>l.startsWith('https://www.pro7.lt/')));
   await page.screenshot({path:new URL('preview-'+name+'.png',root).pathname,fullPage:true});
   if(name==='mobile'||name==='dark')await page.locator('.campaign-footer').screenshot({path:new URL('preview-footer-'+name+'.png',root).pathname});
+  if(name==='mobile')await page.locator('.review-img').screenshot({path:new URL('preview-review-mobile.png',root).pathname});
   if(name==='desktop')await page.screenshot({path:new URL('PRO7-NL3-review.jpg',root).pathname,fullPage:true,type:'jpeg',quality:90});
   results.push({name,...result,text:undefined,alts:undefined,links:undefined});await page.close();
 }

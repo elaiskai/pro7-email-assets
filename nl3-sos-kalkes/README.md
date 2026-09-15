@@ -1,33 +1,32 @@
 # PRO7 NL3: SOS! Kalkės puola!
 
-Patvirtintas hero: v4, didelė 10 % nuolaidos juosta. Ankstesni variantai išsaugoti.
+Hero v5: Reikia nuvalyti ant lapelio, nuvalyti ir turėti tokios pačios žalios spalvos. Ankstesni variantai išsaugoti.
 
-**Subject:** SOS! Kalkės puola!
+Subject: SOS! Kalkės puola!
 
-**Preheader:** Kalkėms blogos naujienos. Jums 10 % nuolaida.
+Preheader: Kalkėms blogos naujienos. Jums 10 % nuolaida.
 
-**Sender:** PRO7.LT
+Sender: PRO7.LT
 
-## Failai
+Nuolaida: 10 %, bendras kodas KALKES. Galioja nuo 2026 m. rugsėjo 15 d. iki rugsėjo 20 d. imtinai.
 
-- [index.html](index.html): visa vietinė HTML peržiūra. Viduryje yra aiškiai pažymėta neveikianti kodo vieta. Neįklijuoti šio failo tiesiai į siuntimą.
-- [PRO7-NL3-review.jpg](PRO7-NL3-review.jpg): viso laiško JPG peržiūra.
-- [omnisend-top.html](omnisend-top.html): pirmasis Omnisend Custom HTML blokas.
-- [omnisend-bottom.html](omnisend-bottom.html): antrasis Omnisend Custom HTML blokas.
-- [omnisend-styles.css](omnisend-styles.css): stiliai abiejų Custom HTML blokų Styles laukui.
-- [assets](assets): visi vaizdai ir originalai.
+## Failai ir Omnisend
 
-## Kaip surinkti Omnisend
+1. [omnisend.html](omnisend.html): visas laiškas vienam Custom HTML blokui, įskaitant kodą KALKES, datas ir Mildos atsiliepimą.
+2. [omnisend-styles.css](omnisend-styles.css): į to bloko Styles lauką.
+3. [hero-omnisend.html](hero-omnisend.html): tik naujo hero kodas.
+4. [index.html](index.html): vietinė peržiūra, ne siuntimo failas.
+5. [PRO7-NL3-review.jpg](PRO7-NL3-review.jpg): visa JPG peržiūra.
+6. [assets](assets): vaizdai ir originalai.
 
-1. Pirmas Custom HTML blokas: omnisend-top.html. Styles lauke įdėti omnisend-styles.css.
-2. Tarp blokų įdėti tikrą asmeninio nuolaidos kodo elementą, patikrinti gavėjų kodus ir galiojimo sąlygas.
-3. Antras Custom HTML blokas: omnisend-bottom.html. Styles lauke įdėti tuos pačius stilius.
-4. Palikti vieną Omnisend sistemos atsisakymo footerį. Mūsų informacinis footeris atsisakymo nuorodos neturi.
+Įkeliant visą naują laišką pašalinti ankstesnius laiško blokus ir atskirą asmeninio kodo elementą, kad nesidubliuotų. Palikti vieną Omnisend sistemos atsisakymo footerį. Mūsų informacinis footeris atsisakymo nuorodos neturi.
 
-Canvas 600 px, blokų horizontalus padding 0. Nuotraukų URL eksportuose susieti su konkrečiu paskelbtu Git commit, todėl vėlesni vaizdų pakeitimai nepakeis šios versijos.
+omnisend-top.html ir omnisend-bottom.html palikti alternatyviam surinkimui dviem blokais. Viršutinėje dalyje kodas jau yra, papildomo kodo bloko tarp jų nereikia.
 
-HTML įkėlimas nenustato subject ir preheader, juos reikia įrašyti į Omnisend kampanijos laukus. Kodo blokas pats savaime nesukuria galiojančios nuolaidos bet kurioje parduotuvės platformoje, būtina patikrinti realų kodą krepšelyje. Prieš siuntimą atlikti bandomą siuntimą.
+Canvas 600 px, bloko horizontalus padding 0. Vaizdai susieti su konkrečiu paskelbtu Git commit. HTML įkėlimas nenustato kampanijos subject ir preheader, juos reikia įrašyti atskiruose Omnisend laukuose. Vien hero pakeitimas neatnaujina kodo, datų ar atsiliepimo likusiame laiške.
 
-## Ankstesnio hero grąžinimas
+Omnisend paskyra nekeista, kampanija nesiųsta. Kodo KALKES pritaikymas parduotuvėje nebandytas. Prieš siuntimą patikrinti nuolaidą krepšelyje ir bandomą laišką realiame pašte.
 
-Žr. [HERO-REVERT.md](HERO-REVERT.md) ir [ankstesnę peržiūrą](index-before-discount-emphasis.html). Naujasis dizainas nepanaikino ankstesnių failų.
+## Grąžinimas
+
+Žr. [HERO-REVERT.md](HERO-REVERT.md). Ankstesni hero failai išsaugoti.

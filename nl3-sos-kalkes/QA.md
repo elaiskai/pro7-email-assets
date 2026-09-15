@@ -1,15 +1,11 @@
-# Review QA
+# Review QA, 2026 09 15
 
-Publication check, 2026-09-15: approved hero v4, NL2-style footer, 10 visible images, four before/after pairs. Seven local cases rerun. Public asset commit aab87f39e6e31a00540e6d946c9a26675ca6fff0. All ten exported image URLs return HTTP 200 with image content types. Exported top/bottom fragments render in 320px and 600px hosts; no preview-code placeholder or unsubscribe in exports, styles do not affect outside content. See qa-public-results.json. Original product PNG retained; delivery PNG reduced proportionally from 4.2 MB to 481 KB. No sending or real coupon redemption performed. Earlier checks below are historical.
+Current revision: hero v5 with paper heading and matching green words, shared KALKES code, September 15 through 20 inclusive validity, supplied Milda testimonial. Subject/title: SOS! Kalkės puola!
 
-2026-09-15. Seven browser cases pass: desktop, 390px, 320px, dark, 320px host inside 1200px editor viewport, no stylesheet, 800px host. Results in qa-results.json.
+Seven local browser cases pass: desktop, 390px, 320px, dark, 320px host inside 1200px viewport, no stylesheet, 800px host. See qa-results.json. Eleven images, four before/after pairs, no broken images, no distorted ratios, no horizontal overflow. Maximum email width 600px, centered. Buttons 52px high. No customer-facing dashes, contact placeholders, preview coupons or personal-code language. Price 32.21 × 0.9 rounds to 28.99 EUR.
 
-Maximum rendered width 600px. Centered inside hosts. No horizontal page overflow, broken images, distorted image ratios, personalization fields or dash punctuation in visible copy and alt text. Primary buttons 52px high. Montserrat available in the normal render, Arial fallback retained. Full desktop and dark screenshots visually reviewed. Original product and before/after photos are not AI retouched.
+Public checks are recorded by qa-public.mjs in qa-public-results.json, including the actual immutable asset commit. Full HTML and two-fragment alternative contain identical content. Shared code is present, no extra platform code block required. Hero-only snippet uses the same published hero.
 
-All four navigation destinations returned HTTP 200. Product page returned HTTP 200 and offers 1 l at 32.21 EUR. No stock promise included in copy.
+Review image supplied by client, original retained, delivery JPEG only optimized without retouching. A short exact excerpt is repeated as readable live text. Hero is an AI advertising composition, not an experiment. Before/after attribution follows the PRO7 product gallery, not an independently observed test.
 
-Hero generated using built-in imagegen from supplied layout reference, actual product, official logo. Lithuanian headline and checklist text visually inspected. Generated hero photography is not represented as a product experiment.
-
-Not tested: real inbox rendering in Gmail, Apple Mail, Outlook; actual Omnisend sanitization; unique-code assignment and checkout redemption. Preview coupon is intentionally not functional. No campaign sent, no live Omnisend changes, no public asset upload. Final export and send remain pending offer configuration and approval.
-
-Revision 2: all seven cases rerun successfully with the roomier hero v2 and rewritten introduction. Eleven images load, including four complete before/after pairs. Toilet, shower glass and bathroom tap added from the same product gallery. Updated mobile screenshot visually reviewed; comparison columns stay paired with equal widths. JPG and all preview screenshots regenerated. Edit used built-in imagegen, exact prompt in hero-prompt-v2.txt.
+No actual Omnisend account changes or sending. Not tested: actual inbox clients, Omnisend sanitization, real KALKES redemption. HTML title does not set the campaign subject field. Check subject with ė, coupon in checkout, and a real test email before sending. Keep only Omnisend's system unsubscribe footer.
