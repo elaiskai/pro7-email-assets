@@ -1,0 +1,7 @@
+Built-in image generation, focused edit of assets/hero-v2.png.
+Preserve white background, logo, product bottles and labels, muddy shoes and footprints, lighting, framing and discount badge.
+Replace first headline with exact Lithuanian: Nusiavėte batus.
+Keep main headline: Purvas liko?
+Add readable dark green eyebrow: LIETINGŲ DIENŲ KASDIENYBĖ
+Keep badge: 10 % NUOLAIDA
+Use existing Montserrat style, comfortable margins and breathing room. No overlap, additional claims or dash punctuation. Preserve photographic details and portrait ratio.

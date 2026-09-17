@@ -1,8 +1,8 @@
 # PRO7 NL4, rugsėjo 17 d.
 
-Subject: Batus nusiavėte. Purvas liko?
+Subject: Nusiavėte batus. Purvas liko?
 
-Preheader: Kuo nuvalyti batus ir išplauti prieškambario grindis.
+Preheader: Lietingomis dienomis pasirūpinkite batais ir prieškambario grindimis.
 
 Auditorija: visi siuntimui tinkami el. pašto prenumeratoriai, neįtraukiant atsisakiusių ir užblokuotų kontaktų. Atranka ar siuntimas paskyroje neatlikti.
 
@@ -21,6 +21,8 @@ Antroje versijoje vartotojo prašymu naudotas generuotas reklaminis hero su aute
 Svarbu: abiejų grindų valiklių prieš ir po bei CITRUS atsiliepimas nepatvirtinti. Versija skirta peržiūrai, kol gausime trūkstamą autentišką medžiagą arba sprendimą dėl jos atsisakymo. Šis reikalavimas dar neįvykdytas.
 
 Trečioje versijoje produktų nuotraukos, pavadinimai, kainos ir mygtukai sugrupuoti į kompaktiškas baltas korteles. Rezultato nuotraukos ir atsiliepimai vizualiai atskirti, tekstai sutrumpinti, tarpai suvienodinti. Produktai ir hero nepakeisti.
+
+Ketvirtoje versijoje hero tekstas pakeistas į „Nusiavėte batus.“ ir pridėta lietingų dienų tema. Įžanga bei preheader aiškiai susieti su lietingomis dienomis. Hero redaguotas integruotu imagegen, išsaugotas kaip assets/hero-v3.png ir JPG; prompt yra hero-v3-prompt.txt. Tai sezoninė tema, ne konkrečios dienos orų prognozė.
 
 ## Pasiūlymas
 

@@ -1,7 +1,7 @@
 # Publication QA, 2026 09 17
 
 Delivered omnisend.html SHA256:
-4add1c2dfb0f9b11d6bbc21c8bf7a463a1ac23a3a33862ac027f542d2658dd62
+a91fdbc0be28d91691426c59b8174e6b75ed5bbf6fc1db0ef5d55d17bd5b8786
 
 Delivered omnisend-styles.css SHA256:
 6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559
@@ -21,5 +21,7 @@ Revision 3: all six fresh renders visually inspected in full against the current
 Layout QA complete, content request incomplete: FLOOR CLEANER and CITRUS before/after and CITRUS testimonial need authentic source material. User requested continuation and updated files despite earlier execution blockage. Publishing this revised review version does not establish send readiness or fulfillment of the missing proof requirement.
 
 Browser QA complete for the hashes above. Real Omnisend sanitization, Gmail/Outlook rendering and coupon redemption remain unverified. Request a fresh platform test screenshot before actual sending, given historical client rendering issues. Nothing has been sent or edited in Omnisend.
+
+Revision 4: regenerated and visually inspected all six complete inspection sheets against the hash above. Hero-v3 spelling and accents checked: Nusiavėte batus. Purvas liko? LIETINGŲ DIENŲ KASDIENYBĖ. Rainy-day introduction wraps naturally at all tested widths. Images retain proportions, buttons and product association are intact. Existing missing-proof limitations remain unchanged. Seasonal copy makes no live weather forecast claim.
 
 Do not reuse this approval after editing HTML, CSS or assets. Regenerate and visually inspect fresh previews first.

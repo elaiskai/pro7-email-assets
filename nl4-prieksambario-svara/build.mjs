@@ -4,7 +4,7 @@ const root=new URL('./',import.meta.url);
 const publicBase='https://raw.githubusercontent.com/elaiskai/pro7-email-assets/main/nl4-prieksambario-svara/assets/';
 for(const name of ['floor','super','citrus'])await sharp(new URL(`assets/${name}-original.png`,root).pathname).resize({width:536,withoutEnlargement:true}).flatten({background:'#ffffff'}).jpeg({quality:90,mozjpeg:true}).toFile(new URL(`assets/${name}.jpg`,root).pathname);
 for(const name of ['before','after'])await sharp(new URL(`assets/shoes-${name}-original.jpg`,root).pathname).resize({width:650,withoutEnlargement:true}).jpeg({quality:90,mozjpeg:true}).toFile(new URL(`assets/shoes-${name}.jpg`,root).pathname);
-await sharp(new URL('assets/hero-v2.png',root).pathname).resize({width:1200,withoutEnlargement:true}).jpeg({quality:90,mozjpeg:true}).toFile(new URL('assets/hero-v2.jpg',root).pathname);
+await sharp(new URL('assets/hero-v3.png',root).pathname).resize({width:1200,withoutEnlargement:true}).jpeg({quality:90,mozjpeg:true}).toFile(new URL('assets/hero-v3.jpg',root).pathname);
 const urls={floor:'https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-',super:'https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas',citrus:'https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis',all:'https://www.pro7.lt/svaros-prekes-valikliai',home:'https://www.pro7.lt/',tools:'https://www.pro7.lt/valymo-irankiai-ir-reikmenys'};
 const css=`@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 .pro7-nl4,.pro7-nl4 td,.pro7-nl4 p,.pro7-nl4 a,.pro7-nl4 h1,.pro7-nl4 h2{font-family:Montserrat,Arial,sans-serif}
@@ -30,8 +30,8 @@ const review=(text,author)=>`<div class="product-review" style="margin:28px 0 0;
 
 const body=`<table role="presentation" class="pro7-nl4" align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:600px;table-layout:fixed;margin:0 auto;font-family:Montserrat,Arial,sans-serif;color:#182b22;background:#ffffff">
 ${header}<tr><td style="padding:0">${nav}</td></tr>
-<tr><td bgcolor="#ffffff" style="padding:0;background:#ffffff"><a href="${urls.floor}"><img src="${publicBase}hero-v2.jpg" width="600" alt="Batus nusiavėte. Purvas liko? FLOOR CLEANER ir SUPER CLEANER. 10 % nuolaida." style="display:block;width:100%;max-width:600px;height:auto;border:0"></a></td></tr>
-${row(p('Sveiki,','font-weight:600;margin-bottom:14px')+p('Po pasivaikščiojimo kartais užtenka kelių žingsnių, kad prieškambarį vėl reikėtų valyti. Pradėkime nuo batų, tada pasirūpinkime grindimis.'),'28px 24px')}
+<tr><td bgcolor="#ffffff" style="padding:0;background:#ffffff"><a href="${urls.floor}"><img src="${publicBase}hero-v3.jpg" width="600" alt="Lietingų dienų kasdienybė. Nusiavėte batus. Purvas liko? FLOOR CLEANER ir SUPER CLEANER. 10 % nuolaida." style="display:block;width:100%;max-width:600px;height:auto;border:0"></a></td></tr>
+${row(p('Sveiki,','font-weight:600;margin-bottom:14px')+p('Lietingomis dienomis su batais namo parsinešame ir purvo. Ant kilimėlio lieka šlapi pėdsakai, ant grindų smėlis. Pirmiausia nuvalykime batus, tada išplaukime prieškambarį.'),'28px 24px')}
 ${row(`<section data-product="super">${label('01 / BATAI')}${h2('Dar ne laikas naujiems kedukams.')}${p('Pabandykite nuvalyti su SUPER CLEANER.')}${productCard('super','SUPER CLEANER','Universalus valiklis, 750 ml.','13,83 €')}<div class="product-proof" style="margin:36px 0 0">${label('REZULTATAS IŠ PRO7 GALERIJOS')}${proof}</div>${review('Netikėjau valikliais iki kol pabandžiau :)','Darius, SUPER CLEANER atsiliepimas')}${p('Pirmiausia išbandykite mažai matomoje vietoje ir patikrinkite tinkamumą batų medžiagai.','font-size:12px;line-height:20px;margin-top:24px;color:#627068')}</section>`,'28px 24px 40px')}
 ${row(`<section data-product="floor"><div style="border-top:1px solid #e2e8e3;padding-top:36px">${label('02 / GRINDYS')}${h2('Dabar grindų eilė.')}${p('Prieškambario plytelėms, laminatui ir vinilui. Koncentratą skieskite pagal etiketę.')}${productCard('floor','FLOOR CLEANER','Koncentruotas grindų valiklis, 1 l.','10,21 €')}${review('Pats geriausias grindų valiklis kokį tik teko naudoti!','Monika, FLOOR CLEANER atsiliepimas')}</div></section>`,'0 24px 40px')}
 ${row(`<section data-product="citrus"><div style="border-top:1px solid #e2e8e3;padding-top:36px">${label('PAGAL JŪSŲ GRINDŲ DANGĄ')}${h2('Alyvuotos ar vaškuotos grindys?')}${p('Jų priežiūrai rinkitės FLOOR CLEANER CITRUS.')}${productCard('citrus','FLOOR CLEANER CITRUS','Grindų valiklis, 1 l.','10,21 €')}</div></section>`,'0 24px 40px')}
@@ -41,12 +41,12 @@ ${row(`<p class="muted" style="margin:0;font-size:10px;line-height:17px;text-ali
 </table>`;
 // Divs/sections are non-layout semantic wrappers; all geometry uses email tables and inline styles.
 const fragment=body.replaceAll(/<section data-product="([^"]+)">/g,'<div data-product="$1">').replaceAll('</section>','</div>');
-const head=`<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light only"><title>Batus nusiavėte. Purvas liko?</title><style>${css}</style>`;
-const doc=content=>`<!doctype html><html lang="lt"><head>${head}</head><body style="margin:0;padding:0;background:#ffffff"><div style="display:none;max-height:0;overflow:hidden;mso-hide:all">Kuo nuvalyti batus ir išplauti prieškambario grindis.</div>${content}</body></html>`;
+const head=`<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light only"><title>Nusiavėte batus. Purvas liko?</title><style>${css}</style>`;
+const doc=content=>`<!doctype html><html lang="lt"><head>${head}</head><body style="margin:0;padding:0;background:#ffffff"><div style="display:none;max-height:0;overflow:hidden;mso-hide:all">Lietingomis dienomis pasirūpinkite batais ir prieškambario grindimis.</div>${content}</body></html>`;
 writeFileSync(new URL('omnisend.html',root),fragment);
 writeFileSync(new URL('omnisend-styles.css',root),css);
 writeFileSync(new URL('index.html',root),doc(fragment.replaceAll(publicBase,'assets/')));
 writeFileSync(new URL('preview-online.html',root),doc(fragment));
-writeFileSync(new URL('subject.txt',root),'Batus nusiavėte. Purvas liko?\n');
-writeFileSync(new URL('preheader.txt',root),'Kuo nuvalyti batus ir išplauti prieškambario grindis.\n');
+writeFileSync(new URL('subject.txt',root),'Nusiavėte batus. Purvas liko?\n');
+writeFileSync(new URL('preheader.txt',root),'Lietingomis dienomis pasirūpinkite batais ir prieškambario grindimis.\n');
 console.log('Built NL4 revision 2. Generated advertising hero; authentic product photos and proof. Missing floor proof and citrus review remain content blockers.');
