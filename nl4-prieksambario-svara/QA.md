@@ -1,7 +1,7 @@
 # Publication QA, 2026 09 17
 
 Delivered omnisend.html SHA256:
-dec32d99ddf9135d6159fbd6f6efd3b63f4915c4d7151a9e949fe2d3d53e142f
+7f9c08c8ef95700ba23b6fefdc509ff77022d8b1dac67af17196e9929a76d887
 
 Delivered omnisend-styles.css SHA256:
 6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559
@@ -31,5 +31,7 @@ Revision 6: all six exact current HTML renders visually inspected in full. User-
 Revision 7: all six full fresh inspection sheets visually reviewed against current hash. Logo and navigation share one compact table row at desktop and all mobile sizes, including stripped head styles. Three navigation links have 44 px click height, labels fit and logo is proportional. Shipping foreground explicitly white per user request; reduced white-on-#42BA7D contrast disclosed, not claimed as contrast-compliant. Product geometry and 52 px CTA checks remain passed. Ratio check now uses fractional bounding-client-rect dimensions instead of rounded image.width/image.height, avoiding false failures on small responsive logos. Actual email-client test remains outstanding.
 
 Revision 8: replaced SUPER CLEANER review with Irina's 5-star text transcribed verbatim from user-supplied screenshot, attribution supplied by user, not independently website-verified. All six complete fresh inspection sheets visually reviewed against current hash. Longer quote wraps naturally without overflow or clipping at 320/390/430 px and without head styles; image order, product names and CTA geometry remain intact. Existing evidence and platform-test limitations remain.
+
+Revision 9: robot-floor-cleaner suitability added to both FLOOR CLEANER and CITRUS with usage and dosage qualification, verified in fresh direct responses from both product URLs (search cache was stale). No invented amount or universal robot-model compatibility claim. All six full fresh inspection sheets visually reviewed against current hash, including 600 desktop, 320/390/430 mobile, no-head320 and dark390. New paragraphs fit naturally, no overflow, preserved product association, image proportions and CTA height. Actual inbox test remains outstanding.
 
 Do not reuse this approval after editing HTML, CSS or assets. Regenerate and visually inspect fresh previews first.

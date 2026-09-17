@@ -16,6 +16,8 @@ Dariaus 5 iš 5 atsiliepimas iš to paties SUPER CLEANER produkto puslapio: Neti
 
 2026 09 17 update: SUPER CLEANER testimonial replaced at user's request with Irina, 5/5. Source: user-supplied screenshot codex-clipboard-fab81403-ca6b-4648-9225-83a5c7e26358.png. Product association supplied by user; screenshot itself does not display product name. Text transcribed verbatim: Pagaliau po grindų plovimo nesimato vaikų pėdučių, nes prieš tai ko tik nebandžiau, nors ir sausos grindys, bet vaikams prabėgus vis likdavo jų pėdutės. O dabar grindys tiesiog spindi.
 
+Robot use update from Aistė, verified via fresh direct product HTML: both standard FLOOR CLEANER and FLOOR CLEANER CITRUS pages explicitly state they can be used in floor cleaning robots following usual usage and dosage recommendations. Added qualified copy to both sections, no exact dose invented. Search-cached pages did not yet include the update.
+
 FLOOR CLEANER, 1 l, 10,21 €:
 https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-
 https://www.pro7.lt/foto/grindu-valiklis-americol-floor-cleaner-1-l-43a00.png
