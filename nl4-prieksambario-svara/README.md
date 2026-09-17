@@ -20,6 +20,8 @@ Antroje versijoje vartotojo prašymu naudotas generuotas reklaminis hero su aute
 
 Svarbu: abiejų grindų valiklių prieš ir po bei CITRUS atsiliepimas nepatvirtinti. Versija skirta peržiūrai, kol gausime trūkstamą autentišką medžiagą arba sprendimą dėl jos atsisakymo. Šis reikalavimas dar neįvykdytas.
 
+Trečioje versijoje produktų nuotraukos, pavadinimai, kainos ir mygtukai sugrupuoti į kompaktiškas baltas korteles. Rezultato nuotraukos ir atsiliepimai vizualiai atskirti, tekstai sutrumpinti, tarpai suvienodinti. Produktai ir hero nepakeisti.
+
 ## Pasiūlymas
 
 KALKES, 10 %, iki rugsėjo 20 d. imtinai, pagal Aistės ankstesnį patvirtinimą prenumeratoriams visoms prekėms. Kodo pritaikymas krepšelyje šio darbo metu netikrintas, naujas kodas nesukurtas. Kortelėse rodomos dabartinės pilnos kainos, ne kainos po kodo.
