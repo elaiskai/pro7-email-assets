@@ -24,6 +24,8 @@ Trečioje versijoje produktų nuotraukos, pavadinimai, kainos ir mygtukai sugrup
 
 Ketvirtoje versijoje hero tekstas pakeistas į „Nusiavėte batus.“ ir pridėta lietingų dienų tema. Įžanga bei preheader aiškiai susieti su lietingomis dienomis. Hero redaguotas integruotu imagegen, išsaugotas kaip assets/hero-v3.png ir JPG; prompt yra hero-v3-prompt.txt. Tai sezoninė tema, ne konkrečios dienos orų prognozė.
 
+Pagrindinė PRO7 žalia: #42BA7D, vartotojo patvirtinta 2026 09 17. Naudojama pristatymo juostai, mygtukų fonams ir akcentinėms linijoms. Ant šio fono tamsus tekstas #182b22. Smulkus žalias tekstas ir esamas hero lieka tamsesni; hero šiuo spalvos atnaujinimu negeneruotas iš naujo.
+
 ## Pasiūlymas
 
 KALKES, 10 %, iki rugsėjo 20 d. imtinai, pagal Aistės ankstesnį patvirtinimą prenumeratoriams visoms prekėms. Kodo pritaikymas krepšelyje šio darbo metu netikrintas, naujas kodas nesukurtas. Kortelėse rodomos dabartinės pilnos kainos, ne kainos po kodo.

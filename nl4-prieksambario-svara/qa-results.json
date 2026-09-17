@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "1de45291ee3efd7ef4d08546ed83b3e03c371db399077f0c9e528c20a23d4ccf",
+  "htmlSHA256": "c2e95a567b14c887e19c1c0f9589bcc4d80fd6a5853fd81a606017cdb1814803",
   "cssSHA256": "6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559",
   "assetTransport": "Public image requests mapped to identical local files before publishing",
   "cases": [
