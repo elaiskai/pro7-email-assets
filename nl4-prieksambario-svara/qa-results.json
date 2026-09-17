@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "a91fdbc0be28d91691426c59b8174e6b75ed5bbf6fc1db0ef5d55d17bd5b8786",
+  "htmlSHA256": "1de45291ee3efd7ef4d08546ed83b3e03c371db399077f0c9e528c20a23d4ccf",
   "cssSHA256": "6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559",
   "assetTransport": "Public image requests mapped to identical local files before publishing",
   "cases": [
@@ -45,8 +45,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1232.71875,
-          "ctaTop": 1530.71875,
+          "imageTop": 1274.71875,
+          "ctaTop": 1572.71875,
           "nameWidth": 502,
           "nameText": "SUPER CLEANER"
         },
@@ -54,8 +54,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2382.71875,
-          "ctaTop": 2680.71875,
+          "imageTop": 2424.71875,
+          "ctaTop": 2722.71875,
           "nameWidth": 502,
           "nameText": "FLOOR CLEANER"
         },
@@ -63,8 +63,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 3092.71875,
-          "ctaTop": 3390.71875,
+          "imageTop": 3134.71875,
+          "ctaTop": 3432.71875,
           "nameWidth": 502,
           "nameText": "FLOOR CLEANER CITRUS"
         }
@@ -118,8 +118,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1050.84375,
-          "ctaTop": 1348.84375,
+          "imageTop": 1110.84375,
+          "ctaTop": 1408.84375,
           "nameWidth": 246,
           "nameText": "SUPER CLEANER"
         },
@@ -127,8 +127,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2143.84375,
-          "ctaTop": 2441.84375,
+          "imageTop": 2203.84375,
+          "ctaTop": 2501.84375,
           "nameWidth": 246,
           "nameText": "FLOOR CLEANER"
         },
@@ -136,8 +136,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 2972.84375,
-          "ctaTop": 3270.84375,
+          "imageTop": 3032.84375,
+          "ctaTop": 3330.84375,
           "nameWidth": 246,
           "nameText": "FLOOR CLEANER CITRUS"
         }
@@ -191,8 +191,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1054.3125,
-          "ctaTop": 1352.3125,
+          "imageTop": 1096.3125,
+          "ctaTop": 1394.3125,
           "nameWidth": 316,
           "nameText": "SUPER CLEANER"
         },
@@ -200,8 +200,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2111.3125,
-          "ctaTop": 2409.3125,
+          "imageTop": 2153.3125,
+          "ctaTop": 2451.3125,
           "nameWidth": 316,
           "nameText": "FLOOR CLEANER"
         },
@@ -209,8 +209,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 2906.3125,
-          "ctaTop": 3204.3125,
+          "imageTop": 2948.3125,
+          "ctaTop": 3246.3125,
           "nameWidth": 316,
           "nameText": "FLOOR CLEANER CITRUS"
         }
@@ -264,8 +264,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1079.296875,
-          "ctaTop": 1377.296875,
+          "imageTop": 1121.296875,
+          "ctaTop": 1419.296875,
           "nameWidth": 356,
           "nameText": "SUPER CLEANER"
         },
@@ -273,8 +273,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2156.296875,
-          "ctaTop": 2454.296875,
+          "imageTop": 2198.296875,
+          "ctaTop": 2496.296875,
           "nameWidth": 356,
           "nameText": "FLOOR CLEANER"
         },
@@ -282,8 +282,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 2926.296875,
-          "ctaTop": 3224.296875,
+          "imageTop": 2968.296875,
+          "ctaTop": 3266.296875,
           "nameWidth": 356,
           "nameText": "FLOOR CLEANER CITRUS"
         }
@@ -337,8 +337,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1025.84375,
-          "ctaTop": 1323.84375,
+          "imageTop": 1085.84375,
+          "ctaTop": 1383.84375,
           "nameWidth": 246,
           "nameText": "SUPER CLEANER"
         },
@@ -346,8 +346,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2098.84375,
-          "ctaTop": 2396.84375,
+          "imageTop": 2158.84375,
+          "ctaTop": 2456.84375,
           "nameWidth": 246,
           "nameText": "FLOOR CLEANER"
         },
@@ -355,8 +355,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 2893.84375,
-          "ctaTop": 3191.84375,
+          "imageTop": 2953.84375,
+          "ctaTop": 3251.84375,
           "nameWidth": 246,
           "nameText": "FLOOR CLEANER CITRUS"
         }
@@ -410,8 +410,8 @@
           "key": "super",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
-          "imageTop": 1054.3125,
-          "ctaTop": 1352.3125,
+          "imageTop": 1096.3125,
+          "ctaTop": 1394.3125,
           "nameWidth": 316,
           "nameText": "SUPER CLEANER"
         },
@@ -419,8 +419,8 @@
           "key": "floor",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-",
-          "imageTop": 2111.3125,
-          "ctaTop": 2409.3125,
+          "imageTop": 2153.3125,
+          "ctaTop": 2451.3125,
           "nameWidth": 316,
           "nameText": "FLOOR CLEANER"
         },
@@ -428,8 +428,8 @@
           "key": "citrus",
           "photoUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
           "ctaUrl": "https://www.pro7.lt/svaros-prekes/1375-floor-cleaner-citrus-1-l-grindu-valiklis",
-          "imageTop": 2906.3125,
-          "ctaTop": 3204.3125,
+          "imageTop": 2948.3125,
+          "ctaTop": 3246.3125,
           "nameWidth": 316,
           "nameText": "FLOOR CLEANER CITRUS"
         }

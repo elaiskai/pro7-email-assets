@@ -1,7 +1,7 @@
 # Publication QA, 2026 09 17
 
 Delivered omnisend.html SHA256:
-a91fdbc0be28d91691426c59b8174e6b75ed5bbf6fc1db0ef5d55d17bd5b8786
+1de45291ee3efd7ef4d08546ed83b3e03c371db399077f0c9e528c20a23d4ccf
 
 Delivered omnisend-styles.css SHA256:
 6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559
@@ -23,5 +23,7 @@ Layout QA complete, content request incomplete: FLOOR CLEANER and CITRUS before/
 Browser QA complete for the hashes above. Real Omnisend sanitization, Gmail/Outlook rendering and coupon redemption remain unverified. Request a fresh platform test screenshot before actual sending, given historical client rendering issues. Nothing has been sent or edited in Omnisend.
 
 Revision 4: regenerated and visually inspected all six complete inspection sheets against the hash above. Hero-v3 spelling and accents checked: Nusiavėte batus. Purvas liko? LIETINGŲ DIENŲ KASDIENYBĖ. Rainy-day introduction wraps naturally at all tested widths. Images retain proportions, buttons and product association are intact. Existing missing-proof limitations remain unchanged. Seasonal copy makes no live weather forecast claim.
+
+Revision 5: all six fresh complete render sheets visually inspected for the current hash. Shipping strip appears above logo, wraps cleanly at 320 px including without head styles, amount and trailing parcel stay together. Navigation is VALIKLIAI, ĮRANKIAI, AKCIJOS; all links returned HTTP 200, including https://www.pro7.lt/akcijos-pasiulymai. Product order, proportions, readable text and 52 px CTAs remain intact. Actual platform test still outstanding.
 
 Do not reuse this approval after editing HTML, CSS or assets. Regenerate and visually inspect fresh previews first.
