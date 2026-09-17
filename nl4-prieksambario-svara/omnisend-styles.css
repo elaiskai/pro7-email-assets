@@ -2,6 +2,5 @@
 .pro7-nl4,.pro7-nl4 td,.pro7-nl4 p,.pro7-nl4 a,.pro7-nl4 h1,.pro7-nl4 h2{font-family:Montserrat,Arial,sans-serif}
 .pro7-nl4 table{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}
 @media(min-width:481px){.pro7-nl4 .hero-title{font-size:48px!important;line-height:51px!important}.pro7-nl4 .pad{padding-left:36px!important;padding-right:36px!important}}
-@media(prefers-color-scheme:dark){.pro7-nl4 .paper{background:#182b23!important;color:#f4f7f1!important}.pro7-nl4 .soft{background:#243e31!important;color:#f4f7f1!important}.pro7-nl4 .muted{color:#cedad2!important}.pro7-nl4 .ink{color:#f4f7f1!important}.pro7-nl4 .label{color:#b5dfc2!important}}
-[data-ogsc] .pro7-nl4 .paper{background:#182b23!important;color:#f4f7f1!important}
-[data-ogsc] .pro7-nl4 .soft{background:#243e31!important;color:#f4f7f1!important}
+@media(prefers-color-scheme:dark){.pro7-nl4,.pro7-nl4 .paper,.pro7-nl4 .soft{background:#ffffff!important;color:#182b22!important}.pro7-nl4 .label{color:#21663f!important}}
+[data-ogsc] .pro7-nl4,[data-ogsc] .pro7-nl4 .paper,[data-ogsc] .pro7-nl4 .soft{background:#ffffff!important;color:#182b22!important}

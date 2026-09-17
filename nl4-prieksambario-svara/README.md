@@ -16,7 +16,9 @@ Auditorija: visi siuntimui tinkami el. pašto prenumeratoriai, neįtraukiant ats
 
 index.html yra vietinė peržiūra. preview-online.html naudoja viešus assets. PRO7-NL4-review.jpg yra šviežia desktop peržiūra. previews aplanke visų patikrų PNG. Inspection failuose visas ilgas laiškas padalytas į dvi gretimas dalis tik patikros patogumui, pats laiškas vieno stulpelio.
 
-Naudoti tik originalūs produkto ir oficialios galerijos vaizdai, jokio generuoto hero ar netikro eksperimento. Prieš ir po neretušuoti. Brand DNA pritaikytas tonui, Montserrat, PRO7 žaliai, statiniam Sveiki ir footerio struktūrai. Frontend design pritaikytas tipografiniam hero ir aiškiai vieno stulpelio hierarchijai.
+Antroje versijoje vartotojo prašymu naudotas generuotas reklaminis hero su autentiškų produktų nuorodomis. Tai nėra eksperimento nuotrauka. Produkto kortelių ir prieš bei po vaizdai tikri, neretušuoti. Visi blokų fonai balti. SUPER CLEANER pora ir Dariaus atsiliepimas pateikti po produktu. Hero sukurtas integruotu imagegen, prompt saugomas hero-v2-prompt.txt, originalas assets/hero-v2.png.
+
+Svarbu: abiejų grindų valiklių prieš ir po bei CITRUS atsiliepimas nepatvirtinti. Versija skirta peržiūrai, kol gausime trūkstamą autentišką medžiagą arba sprendimą dėl jos atsisakymo. Šis reikalavimas dar neįvykdytas.
 
 ## Pasiūlymas
 

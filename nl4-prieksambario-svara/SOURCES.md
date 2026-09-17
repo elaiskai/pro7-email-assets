@@ -12,6 +12,8 @@ https://www.pro7.lt/foto/po-pro7-valymo-priemones-b3718.jpg
 
 Priskyrimas SUPER CLEANER pagal oficialų produkto puslapį, ne nepriklausomai stebėtas bandymas. Abiejose nuotraukose tie patys kedukai su raudonu vidumi. Originalai išsaugoti, tik dydžio ir JPEG optimizavimas. Batų medžiagos universalus tinkamumas nežadamas.
 
+Dariaus 5 iš 5 atsiliepimas iš to paties SUPER CLEANER produkto puslapio: Netikėjau valikliais iki kol pabandžiau :)
+
 FLOOR CLEANER, 1 l, 10,21 €:
 https://www.pro7.lt/svaros-prekes/221-americol-floor-cleaner-1-l-grindu-valiklis-
 https://www.pro7.lt/foto/grindu-valiklis-americol-floor-cleaner-1-l-43a00.png
