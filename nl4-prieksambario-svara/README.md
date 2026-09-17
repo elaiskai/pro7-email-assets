@@ -26,6 +26,8 @@ Ketvirtoje versijoje hero tekstas pakeistas į „Nusiavėte batus.“ ir pridė
 
 Pagrindinė PRO7 žalia: #42BA7D, vartotojo patvirtinta 2026 09 17. Naudojama pristatymo juostai, mygtukų fonams ir akcentinėms linijoms. Ant šio fono tamsus tekstas #182b22. Smulkus žalias tekstas ir esamas hero lieka tamsesni; hero šiuo spalvos atnaujinimu negeneruotas iš naujo.
 
+Naujausia antraštė: logotipas ir trys kategorijų nuorodos vienoje eilutėje. Pristatymo juostos tekstas baltas pagal vartotojo prašymą, mygtukų tekstas liko tamsus.
+
 ## Pasiūlymas
 
 KALKES, 10 %, iki rugsėjo 20 d. imtinai, pagal Aistės ankstesnį patvirtinimą prenumeratoriams visoms prekėms. Kodo pritaikymas krepšelyje šio darbo metu netikrintas, naujas kodas nesukurtas. Kortelėse rodomos dabartinės pilnos kainos, ne kainos po kodo.

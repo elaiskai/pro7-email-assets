@@ -1,7 +1,7 @@
 # Publication QA, 2026 09 17
 
 Delivered omnisend.html SHA256:
-c2e95a567b14c887e19c1c0f9589bcc4d80fd6a5853fd81a606017cdb1814803
+933c31dd345821a4cad5fd074b820cd004102bbaa994da1ff7b7fe015059ccbf
 
 Delivered omnisend-styles.css SHA256:
 6fdec511a58b81b7042bfb69b601aecce476032af60a88b3942921fdb5a4f559
@@ -27,5 +27,7 @@ Revision 4: regenerated and visually inspected all six complete inspection sheet
 Revision 5: all six fresh complete render sheets visually inspected for the current hash. Shipping strip appears above logo, wraps cleanly at 320 px including without head styles, amount and trailing parcel stay together. Navigation is VALIKLIAI, ĮRANKIAI, AKCIJOS; all links returned HTTP 200, including https://www.pro7.lt/akcijos-pasiulymai. Product order, proportions, readable text and 52 px CTAs remain intact. Actual platform test still outstanding.
 
 Revision 6: all six exact current HTML renders visually inspected in full. User-specified primary green #42BA7D applied to shipping strip, CTA backgrounds and review accent lines. Dark #182b22 foreground retained for contrast on this lighter green. Smaller green text and existing raster hero retain their darker tones for readability; hero artwork was not regenerated. No geometry changes or regressions in readable widths, product association, proportions or CTA height. Real platform test still outstanding.
+
+Revision 7: all six full fresh inspection sheets visually reviewed against current hash. Logo and navigation share one compact table row at desktop and all mobile sizes, including stripped head styles. Three navigation links have 44 px click height, labels fit and logo is proportional. Shipping foreground explicitly white per user request; reduced white-on-#42BA7D contrast disclosed, not claimed as contrast-compliant. Product geometry and 52 px CTA checks remain passed. Ratio check now uses fractional bounding-client-rect dimensions instead of rounded image.width/image.height, avoiding false failures on small responsive logos. Actual email-client test remains outstanding.
 
 Do not reuse this approval after editing HTML, CSS or assets. Regenerate and visually inspect fresh previews first.
