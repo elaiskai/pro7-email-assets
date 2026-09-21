@@ -12,7 +12,7 @@ Montserrat, Arial atsarginis šriftas, balti fonai, pagrindinė žalia #42BA7D. 
 
 ## Patikra
 
-Galutinio HTML SHA256: `89891693c93976b8e7f13c93ebd6f67c7c7dd4f770ef786226b2b9c9a5d75c7e`.
+Galutinio HTML SHA256: `a2e57abffb7368d2dabfdaa3080c02f72d094e46e1a51a5a0889ddefd07e8950`.
 
 Automatinė ir viso maketo vizuali patikra atlikta 600, 320, 390, 430 px, be head stilių ir šriftų 320 px, su naršyklės dark preference 390 px. Tikrinti tekstų lūžiai, proporcijos, mygtukai nuo 48 px, nuotraukų ryšys su nuorodomis, turinio tvarka ir viso laiško plotis. Visi 12 unikalių PRO7 adresų grąžino 200 ir atitiko numatytus puslapius.
 
@@ -29,4 +29,4 @@ KITCHEN DEGREASER kaitlentės pora pateikta kliento ankstesnei kampanijai. SUPER
 
 Natalia atsiliepimo ištrauka iš KITCHEN DEGREASER puslapio, Audra iš SOFT CLEANER puslapio. Nuorodos pateiktos sources.json ir pačiame laiške. SOFT CLEANER atsiliepimas nėra SUPER CLEANER nuotraukų autorystės teiginys.
 
-Svetainės, vonios, skalbinių ir PRIJA scenos paliktos iš ankstesnės darbuotojų versijos kaip reklaminės iliustracijos, ne kaip tikri produkto bandymai. Naujų AI vaizdų šiame perdaryme negeneruota. Produktų pakuotės paimtos iš oficialių puslapių, nekeistos proporcijos.
+Svetainės, vonios, skalbinių ir PRIJA scenos paliktos iš ankstesnės darbuotojų versijos kaip reklaminės iliustracijos, ne kaip tikri produkto bandymai. Naujas hero sukurtas built-in image_gen pagal tikras trijų produktų pakuotes. Hero yra reklaminė iliustracija, ne valymo rezultato įrodymas. Žr. HERO-PROMPT.md. Katalogo kortelių pakuotės paimtos iš oficialių puslapių, nekeistos proporcijos.
