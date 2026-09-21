@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-21",
+  "products": {
+    "bathroom": "https://www.pro7.lt/svaros-prekes/1414-americol-bathroom-cleaner-750-ml-vonios-kambario-valiklis",
+    "prija": "https://www.pro7.lt/asmens-higiena-ir-kosmetika/prija-kosmetika",
+    "gallery": "https://www.pro7.lt/galerija",
+    "soft": "https://www.pro7.lt/svaros-prekes/1413-baldu-kilimu-ciuziniu-valiklis-PRO7-soft-Cleaner-500ml",
+    "toilet": "https://www.pro7.lt/svaros-prekes/255-americol-toilet-cleaning-gel-0-75-l-koncentratastualeto-valiklis",
+    "laundry": "https://www.pro7.lt/svaros-prekes-valikliai/skalbimo-priemones/skalbikliai",
+    "kitchen": "https://www.pro7.lt/svaros-prekes/1416-americol-kitchen-degreaser-750-ml-virtuves-riebalu-salinimo-priemone",
+    "super": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
+    "amecid": "https://www.pro7.lt/svaros-prekes/239-kalkiu-ir-rudziu-valiklis-americol-amecid-1-l-koncentratas",
+    "all": "https://www.pro7.lt/svaros-prekes-valikliai",
+    "tools": "https://www.pro7.lt/valymo-irankiai-ir-reikmenys",
+    "sale": "https://www.pro7.lt/akcijos-pasiulymai"
+  },
+  "reviews": {
+    "Natalia": "https://www.pro7.lt/svaros-prekes/1416-americol-kitchen-degreaser-750-ml-virtuves-riebalu-salinimo-priemone",
+    "Audra": "https://www.pro7.lt/svaros-prekes/1413-baldu-kilimu-ciuziniu-valiklis-PRO7-soft-Cleaner-500ml"
+  },
+  "proof": {
+    "kitchen": "Client supplied photographs, previously approved NL2",
+    "super": "PRO7 gallery, SUPER CLEANER chair pair",
+    "amecid": "PRO7 gallery, AMECID shower head pair"
+  },
+  "illustrations": "Existing campaign scenes reused as advertising illustrations, not proof of results"
+}
