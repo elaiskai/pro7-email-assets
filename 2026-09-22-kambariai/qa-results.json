@@ -237,5 +237,5 @@
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "pending"
+  "visualReview": "PASS: all six complete fresh renders inspected; see VISUAL-QA.md for current HTML hash and inbox limitations"
 }
