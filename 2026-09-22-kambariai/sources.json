@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "products": {
     "bathroom": "https://www.pro7.lt/svaros-prekes/1414-americol-bathroom-cleaner-750-ml-vonios-kambario-valiklis",
     "prija": "https://www.pro7.lt/asmens-higiena-ir-kosmetika/prija-kosmetika",
@@ -16,12 +16,32 @@
   },
   "reviews": {
     "Natalia": "https://www.pro7.lt/svaros-prekes/1416-americol-kitchen-degreaser-750-ml-virtuves-riebalu-salinimo-priemone",
-    "Audra": "https://www.pro7.lt/svaros-prekes/1413-baldu-kilimu-ciuziniu-valiklis-PRO7-soft-Cleaner-500ml"
+    "Evita": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
+    "Audra": "https://www.pro7.lt/svaros-prekes/1413-baldu-kilimu-ciuziniu-valiklis-PRO7-soft-Cleaner-500ml",
+    "Ieva": "https://www.pro7.lt/svaros-prekes/239-kalkiu-ir-rudziu-valiklis-americol-amecid-1-l-koncentratas",
+    "Lina": "https://www.pro7.lt/svaros-prekes/255-americol-toilet-cleaning-gel-0-75-l-koncentratastualeto-valiklis"
   },
   "proof": {
-    "kitchen": "Client supplied photographs, previously approved NL2",
-    "super": "PRO7 gallery, SUPER CLEANER chair pair",
-    "amecid": "PRO7 gallery, AMECID shower head pair"
+    "super-surface": {
+      "product": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-01f1d.png",
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-fb753.png"
+    },
+    "super-fabric": {
+      "product": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-feadf.png",
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-7eb79.png"
+    },
+    "amecid-faucet": {
+      "product": "https://www.pro7.lt/svaros-prekes/239-kalkiu-ir-rudziu-valiklis-americol-amecid-1-l-koncentratas",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-a092e.png",
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-fe64b.png"
+    },
+    "toilet-bowl": {
+      "product": "https://www.pro7.lt/svaros-prekes/255-americol-toilet-cleaning-gel-0-75-l-koncentratastualeto-valiklis",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-cb2b8.jpg",
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-07d7a.jpg"
+    }
   },
-  "illustrations": "Existing campaign scenes reused as advertising illustrations, not proof of results"
+  "illustrations": "Room scenes reused as advertising illustrations. Hero generated with authentic packshot references. Neither is a real cleaning result."
 }
