@@ -12,11 +12,11 @@ Montserrat, Arial atsarginis šriftas, balti fonai, pagrindinė žalia #42BA7D. 
 
 ## Patikra
 
-Galutinio HTML SHA256: `7c4f5cab837009bbea5e8a2a98f61b58766609b2575c1def56a43f4a1b8c4f0e`.
+Galutinio HTML SHA256: `9e94c5b74b0c5a8a1be9af34bdbac18433e0a5f8f21c276e6f605017b33f4346`.
 
 Automatinė ir viso maketo vizuali patikra atlikta 600, 320, 390, 430 px, be head stilių ir šriftų 320 px, su naršyklės dark preference 390 px. Tikrinti tekstų lūžiai, proporcijos, mygtukai nuo 46 px, nuotraukų ryšys su nuorodomis, turinio tvarka ir viso laiško plotis. Visi 12 unikalių PRO7 adresų ankstesnėje patikroje grąžino 200 ir atitiko numatytus puslapius, adresai nepakeisti.
 
-Kompaktiškame variante produkto aprašymas, atsiliepimas ir mygtukas sujungti į vieną kortelę. Išsaugoti visi penki atsiliepimai ir keturios rezultatų poros. Pašalintos didelės dekoratyvinės kambarių scenos, skalbikliai ir PRIJA sutalpinti į pabaigos juostą. Desktop aukštis sumažėjo nuo 6780 iki 3770 px, 320 px telefone nuo 6692 iki 3944 px. Ankstesnis maketas išliko commit f3c8804.
+Produkto aprašymas, atsiliepimas ir mygtukas sujungti į vieną kortelę. Išsaugoti visi penki atsiliepimai ir keturios rezultatų poros. Rezultatų poros dabar tokio pat pločio kaip kortelės: 552 px desktop, proporcingai mažesnės telefone. Vartotojo prašymu grąžintos ankstesnės sugeneruotos svetainės ir vonios scenos. Skalbikliai ir PRIJA pabaigos juostoje. Naujos nuotraukos negeneruotos.
 
 Tai naršyklės patikra, ne realaus Omnisend, Gmail ar Outlook siuntimo patvirtinimas. Dark preference nėra Gmail spalvų inversijos emuliacija. Prieš siuntimą būtinas naujas platformos testas telefone ir kompiuteryje, įskaitant dark režimą ir vieną veikiantį atsisakymo bloką.
 
