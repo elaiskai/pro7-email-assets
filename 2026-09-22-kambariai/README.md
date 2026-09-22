@@ -12,9 +12,11 @@ Montserrat, Arial atsarginis šriftas, balti fonai, pagrindinė žalia #42BA7D. 
 
 ## Patikra
 
-Galutinio HTML SHA256: `f6d280036e9ef2a0943c4513be2ae3a5fe96c8a9454aae8e902f6dc46e28fd98`.
+Galutinio HTML SHA256: `7c4f5cab837009bbea5e8a2a98f61b58766609b2575c1def56a43f4a1b8c4f0e`.
 
-Automatinė ir viso maketo vizuali patikra atlikta 600, 320, 390, 430 px, be head stilių ir šriftų 320 px, su naršyklės dark preference 390 px. Tikrinti tekstų lūžiai, proporcijos, mygtukai nuo 48 px, nuotraukų ryšys su nuorodomis, turinio tvarka ir viso laiško plotis. Visi 12 unikalių PRO7 adresų grąžino 200 ir atitiko numatytus puslapius.
+Automatinė ir viso maketo vizuali patikra atlikta 600, 320, 390, 430 px, be head stilių ir šriftų 320 px, su naršyklės dark preference 390 px. Tikrinti tekstų lūžiai, proporcijos, mygtukai nuo 46 px, nuotraukų ryšys su nuorodomis, turinio tvarka ir viso laiško plotis. Visi 12 unikalių PRO7 adresų ankstesnėje patikroje grąžino 200 ir atitiko numatytus puslapius, adresai nepakeisti.
+
+Kompaktiškame variante produkto aprašymas, atsiliepimas ir mygtukas sujungti į vieną kortelę. Išsaugoti visi penki atsiliepimai ir keturios rezultatų poros. Pašalintos didelės dekoratyvinės kambarių scenos, skalbikliai ir PRIJA sutalpinti į pabaigos juostą. Desktop aukštis sumažėjo nuo 6780 iki 3770 px, 320 px telefone nuo 6692 iki 3944 px. Ankstesnis maketas išliko commit f3c8804.
 
 Tai naršyklės patikra, ne realaus Omnisend, Gmail ar Outlook siuntimo patvirtinimas. Dark preference nėra Gmail spalvų inversijos emuliacija. Prieš siuntimą būtinas naujas platformos testas telefone ir kompiuteryje, įskaitant dark režimą ir vieną veikiantį atsisakymo bloką.
 
@@ -24,4 +26,4 @@ Keturi nauji oficialios PRO7 galerijos pavyzdžiai: SUPER CLEANER paviršius ir 
 
 Penki atsiliepimai iš oficialių produktų puslapių, pakartotinai patikrinti 2026-09-22: Natalia apie KITCHEN DEGREASER, Evita apie SUPER CLEANER, Audra apie SOFT CLEANER, Ieva apie AMECID, Lina apie TOILET CLEANING GEL. Natalia ir Lina pateiktos ištraukos, kitų tekstai pilni. Prie kiekvieno yra produkto antraštė ir nuoroda į jo puslapį. BATHROOM CLEANER puslapyje atsiliepimų nerasta. SOFT CLEANER atsiliepimas nėra SUPER CLEANER nuotraukų autorystės teiginys.
 
-Svetainės, vonios, skalbinių ir PRIJA scenos paliktos iš ankstesnės darbuotojų versijos kaip reklaminės iliustracijos, ne kaip tikri produkto bandymai. Naujas hero sukurtas built-in image_gen pagal tikras trijų produktų pakuotes. Hero yra reklaminė iliustracija, ne valymo rezultato įrodymas. Žr. HERO-PROMPT.md. Katalogo kortelių pakuotės paimtos iš oficialių puslapių, nekeistos proporcijos.
+Skalbinių ir PRIJA scenos paliktos iš ankstesnės darbuotojų versijos kaip reklaminės iliustracijos, ne kaip tikri produkto bandymai. Hero sukurtas built-in image_gen pagal tikras trijų produktų pakuotes. Hero yra reklaminė iliustracija, ne valymo rezultato įrodymas. Žr. HERO-PROMPT.md. Katalogo kortelių pakuotės paimtos iš oficialių puslapių, nekeistos proporcijos.
