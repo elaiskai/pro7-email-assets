@@ -183,5 +183,5 @@
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "pass, all six fresh full renders inspected; hero frame fully visible and headline readable; current hash in README.md. Actual inbox test not performed."
+  "visualReview": "pass, all six fresh full renders inspected after GIF timing update; HTML hash unchanged; GIF delay 1300 ms per frame. Actual inbox test not performed."
 }

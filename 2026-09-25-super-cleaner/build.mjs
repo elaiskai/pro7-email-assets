@@ -12,7 +12,7 @@ for(const [key,title] of pairs.filter(p=>['sneakers','wall','car-seat'].includes
  const frame=await sharp(svg).composite([{input:await sharp(key+'-before.jpg').resize(270,270,{fit:'contain',background:'white'}).toBuffer(),left:24,top:42},{input:await sharp(key+'-after.jpg').resize(270,270,{fit:'contain',background:'white'}).toBuffer(),left:306,top:42}]).png().toBuffer();
  frames.push(frame);await sharp(frame).png().toFile('hero-'+key+'.png');
 }
-await sharp(frames,{join:{animated:true}}).gif({delay:[2600,2600,2600],loop:0,colours:128}).toFile('hero-results.gif');
+await sharp(frames,{join:{animated:true}}).gif({delay:[1300,1300,1300],loop:0,colours:128}).toFile('hero-results.gif');
 const image=(f,alt,w=552)=>`<a href="${url}"><img src="${root+f}" alt="${alt}" width="${w}" style="display:block;width:100%;max-width:${w}px;height:auto;border:0"></a>`;
 const row=(s,p='0 24px')=>`<tr><td bgcolor="#ffffff" style="padding:${p};background:#ffffff">${s}</td></tr>`;
 const cta=()=>`<a class="cta" href="${url}" style="display:block;background:#42ba7d;color:#183127;text-align:center;text-decoration:none;font-size:15px;font-weight:700;line-height:22px;padding:14px 12px;border-radius:4px">Rinktis SUPER CLEANER</a>`;
