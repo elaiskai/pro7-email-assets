@@ -1,0 +1,145 @@
+{
+  "htmlSHA256": "b836042fdd3f5ebb3f268b5bae83d04be70767d6557af529e32fe1de7204700e",
+  "cases": [
+    {
+      "name": "desktop",
+      "width": 600,
+      "scroll": 600,
+      "email": 600,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile320",
+      "width": 320,
+      "scroll": 320,
+      "email": 320,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00009566860395593402,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile390",
+      "width": 390,
+      "scroll": 390,
+      "email": 390,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile430",
+      "width": 430,
+      "scroll": 430,
+      "email": 430,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00003559637272965155,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "nohead320",
+      "width": 320,
+      "scroll": 320,
+      "email": 320,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00009566860395593402,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "dark390",
+      "width": 390,
+      "scroll": 390,
+      "email": 390,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0,
+        0.00009738468030773273,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50
+      ],
+      "overflow": []
+    }
+  ],
+  "actualInboxTest": false,
+  "visualReview": "pass, all six fresh full browser renders visually inspected; current hash recorded in README.md. Draft offer unconfirmed, not ready to send."
+}
