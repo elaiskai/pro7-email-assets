@@ -1,0 +1,38 @@
+{
+  "checked": "2026-09-25",
+  "product": "https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas",
+  "priceEUR": 13.83,
+  "pairs": [
+    {
+      "key": "sneakers",
+      "i": 4,
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-b908a.png",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-0edde.png"
+    },
+    {
+      "key": "wall",
+      "i": 8,
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-381ba.jpg",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-20212.jpg"
+    },
+    {
+      "key": "board",
+      "i": 6,
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-19a80.jpg",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-717c7.jpg"
+    },
+    {
+      "key": "car-seat",
+      "i": 14,
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-c1781.jpg",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-578b4.jpg"
+    },
+    {
+      "key": "window",
+      "i": 17,
+      "after": "https://www.pro7.lt/foto/po-pro7-valymo-priemones-42597.jpg",
+      "before": "https://www.pro7.lt/foto/pries-pro7-valymo-priemones-c975f.jpg"
+    }
+  ],
+  "note": "All pairs occur in this product gallery. No matching source filenames found in earlier campaign HTML or source manifests."
+}

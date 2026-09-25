@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import sharp from '/Users/lucka/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp/dist/index.mjs';
+process.chdir(new URL('./',import.meta.url).pathname);
+const chosen=[[4,'sneakers'],[8,'wall'],[6,'board'],[14,'car-seat'],[17,'window']];
+const sources=JSON.parse(fs.readFileSync('/tmp/pro7-sept25-pairs/sources.json'));
+for(const [id,key] of chosen)for(const s of ['before','after'])await sharp('/tmp/pro7-sept25-pairs/'+id+'-'+s+'.img').resize(650,650,{fit:'contain',background:'white'}).jpeg({quality:88}).toFile(key+'-'+s+'.jpg');
+fs.writeFileSync('new-proof-sources.json',JSON.stringify({checked:'2026-09-25',product:'https://www.pro7.lt/svaros-prekes/113-americol-super-cleaner-0-75-l-universalus-valiklis-koncentratas',priceEUR:13.83,pairs:chosen.map(([id,key])=>({key,...sources[id]})),note:'All pairs occur in this product gallery. No matching source filenames found in earlier campaign HTML or source manifests.'},null,2));
+fs.copyFileSync('/Users/lucka/.codex/generated_images/01a064ce-d454-70d0-ada5-3562ea2c6982/exec-1a18c97c-5265-4047-85b6-3d391879817b.png','hero-frame-v2.png');
+await sharp('hero-frame-v2.png').resize(1200).jpeg({quality:88}).toFile('hero-frame-v2.jpg');
+await sharp('../nl4-prieksambario-svara/assets/super-original.png').resize(700).flatten({background:'white'}).jpeg({quality:92}).toFile('super-large.jpg');
