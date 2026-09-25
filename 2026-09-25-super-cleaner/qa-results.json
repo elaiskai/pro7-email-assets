@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "a6d3ba669ad5c449371d697babeba9fdc88844eeb783ef4a46b3bf55317ed488",
+  "htmlSHA256": "0edf2286ca5af3b8345459157e9e8430ca7b6b49df7ff3762066959f8aaa2885",
   "cases": [
     {
       "name": "desktop",
@@ -39,7 +39,7 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.000036621987841600756,
+        0,
         0.00009566860395593402,
         0,
         0,
@@ -99,7 +99,7 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.000054507794614577776,
+        0,
         0.00003559637272965155,
         0,
         0,
@@ -129,7 +129,7 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.000036621987841600756,
+        0,
         0.00009566860395593402,
         0,
         0,
@@ -183,5 +183,5 @@
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "pass, all six fresh full renders visually inspected at current HTML hash, see README.md; offer remains unconfirmed"
+  "visualReview": "pass, all six fresh full renders inspected; hero frame fully visible and headline readable; current hash in README.md. Actual inbox test not performed."
 }
