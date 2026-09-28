@@ -1,7 +1,12 @@
 # PRO7 – nauji automobilio kvapai
 
-Galutinis 2026-09-29 naujienlaiškis: newsletter.html. Visi naudojami vaizdai šiame aplanke; HTML naudoja viešas absoliučias jų nuorodas.
+Omnisend Custom HTML bloke visiškai pakeiskite abiejų laukų turinį:
 
-Kodas UPDATE10 taikomas laiške pateiktiems 9 naujiems automobilio kvapams.
+- HTML: `omnisend.html`
+- Styles: `omnisend-styles.css` (be `<style>` žymų)
 
-Prieš siunčiant el. pašto platformoje susiekite {{unsubscribe_url}} su veikiančia atsisakymo nuoroda.
+Pašalinkite ankstesnius stilius. Laiško plotis 600 px, bloko šoniniai tarpai 0 px.
+
+`newsletter.html` – pilnas savarankiškas HTML dokumentas. Visi paveikslėliai naudoja viešas HTTPS nuorodas.
+
+Kodas UPDATE10 taikomas 9 laiške pateiktiems naujiems automobilio kvapams. Prieš siunčiant susiekite `{{unsubscribe_url}}` su platformos atsisakymo nuoroda.
