@@ -9,4 +9,4 @@ Pašalinkite ankstesnius stilius. Laiško plotis 600 px, bloko šoniniai tarpai 
 
 `newsletter.html` – pilnas savarankiškas HTML dokumentas. Visi paveikslėliai naudoja viešas HTTPS nuorodas.
 
-Kodas UPDATE10 taikomas 9 laiške pateiktiems naujiems automobilio kvapams. Prieš siunčiant susiekite `{{unsubscribe_url}}` su platformos atsisakymo nuoroda.
+Kodas NAUJA10 suteikia 10 % nuolaidą visoms PRO7 prekėms. Prieš siunčiant susiekite `{{unsubscribe_url}}` su platformos atsisakymo nuoroda.
