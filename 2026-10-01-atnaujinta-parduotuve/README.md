@@ -9,6 +9,8 @@ Source: live pro7.lt homepage and three product pages, retrieved 2026-09-30, lis
 
 Brand DNA applied: Montserrat, #42BA7D, white background, practical Jūs copy, no personalization and no custom unsubscribe. Private brand profile is excluded from publishing.
 
+Publication follow-up: fetching upstream revealed 2026-09-29-nauji-kvapai/newsletter.txt. Inspected before completing handoff. That email already mentions the relaunch and NAUJA10 for all products. No expiry found there. The new draft changes focus to problem/category selection rather than repeating all nine fragrances. NAUJA10 is a prior-campaign fact, not confirmation of validity on October 1; draft offer retained pending approval.
+
 ## QA
 
 HTML SHA256: 1d57163dc6b18b80acc3f8b3a4a08c8a31f9327057daf39bbaf1ab29713dd656
