@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "1d57163dc6b18b80acc3f8b3a4a08c8a31f9327057daf39bbaf1ab29713dd656",
+  "htmlSHA256": "d943eec76f938727bdf24192e8757edcac138839d7b907088528031e014b4f5a",
   "cases": [
     {
       "name": "desktop",
@@ -15,6 +15,7 @@
         0
       ],
       "buttons": [
+        50,
         50,
         50,
         50,
@@ -39,6 +40,7 @@
         0
       ],
       "buttons": [
+        72,
         50,
         50,
         50,
@@ -69,6 +71,7 @@
         50,
         50,
         50,
+        50,
         50
       ],
       "overflow": []
@@ -93,6 +96,7 @@
         50,
         50,
         50,
+        50,
         50
       ],
       "overflow": []
@@ -111,6 +115,7 @@
         0
       ],
       "buttons": [
+        72,
         50,
         50,
         50,
@@ -141,11 +146,12 @@
         50,
         50,
         50,
+        50,
         50
       ],
       "overflow": []
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "PASS: all six full-page contact sheets inspected against this HTML hash on 2026-09-30. Intact names, readable copy, associated product photos and CTAs, proportional images, consistent spacing. Browser simulation only; Omnisend inbox test outstanding. Offer remains draft."
+  "visualReview": "PASS: all six fresh full-page previews inspected against this HTML hash on 2026-09-30. Relaunch headline, NAUJA10 and 10% off all products legible; natural mobile wrapping, intact product names, proportional images, associated CTAs and no overflow. Actual Omnisend test remains outstanding."
 }
