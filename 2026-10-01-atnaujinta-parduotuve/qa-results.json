@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "d943eec76f938727bdf24192e8757edcac138839d7b907088528031e014b4f5a",
+  "htmlSHA256": "7e341f9b0bc3818b66c6cbf21b85e53eab461cd1ffed1b7cbf23c2170267a934",
   "cases": [
     {
       "name": "desktop",
@@ -9,19 +9,9 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00014012404378949128,
-        0,
-        0,
-        0
+        0.0001024015204578177
       ],
       "buttons": [
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
@@ -34,19 +24,9 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00016013163925077123,
-        0,
-        0,
-        0
+        0.00008343763037110818
       ],
       "buttons": [
-        72,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
@@ -59,19 +39,9 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00008343763037110818,
-        0,
-        0,
-        0
+        0.000022085878730759845
       ],
       "buttons": [
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
@@ -84,19 +54,9 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.0001926577729545187,
-        0,
-        0,
-        0
+        0.00013833390643069876
       ],
       "buttons": [
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
@@ -109,19 +69,9 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00016013163925077123,
-        0,
-        0,
-        0
+        0.00008343763037110818
       ],
       "buttons": [
-        72,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
@@ -134,24 +84,14 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00008343763037110818,
-        0,
-        0,
-        0
+        0.000022085878730759845
       ],
       "buttons": [
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
-        50,
         50
       ],
       "overflow": []
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "PASS: all six fresh full-page previews inspected against this HTML hash on 2026-09-30. Relaunch headline, NAUJA10 and 10% off all products legible; natural mobile wrapping, intact product names, proportional images, associated CTAs and no overflow. Actual Omnisend test remains outstanding."
+  "visualReview": "PASS: all six fresh complete previews inspected against this HTML hash on 2026-09-30. Single storefront story, readable text, natural image proportions, one primary CTA >=44px, no overflow or detached elements. Actual Omnisend/Gmail test outstanding."
 }
