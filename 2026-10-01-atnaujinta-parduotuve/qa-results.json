@@ -1,5 +1,5 @@
 {
-  "htmlSHA256": "7e341f9b0bc3818b66c6cbf21b85e53eab461cd1ffed1b7cbf23c2170267a934",
+  "htmlSHA256": "8c1a36cb9b97e81a61a23d6be186be9746882b03c5062be3b00bfb105682d583",
   "cases": [
     {
       "name": "desktop",
@@ -9,9 +9,11 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.0001024015204578177
+        0.0001024015204578177,
+        0.000028773919319657892
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
@@ -24,9 +26,11 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00008343763037110818
+        0.00008343763037110818,
+        0.0001719493787519788
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
@@ -39,9 +43,11 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.000022085878730759845
+        0.000022085878730759845,
+        0.00017029862896711379
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
@@ -54,9 +60,11 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00013833390643069876
+        0.00013833390643069876,
+        0.00014091396567117442
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
@@ -69,9 +77,11 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.00008343763037110818
+        0.00008343763037110818,
+        0.0001719493787519788
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
@@ -84,14 +94,16 @@
       "broken": [],
       "ratio": [
         0.0012465223832061056,
-        0.000022085878730759845
+        0.000022085878730759845,
+        0.00017029862896711379
       ],
       "buttons": [
+        50,
         50
       ],
       "overflow": []
     }
   ],
   "actualInboxTest": false,
-  "visualReview": "PASS: all six fresh complete previews inspected against this HTML hash on 2026-09-30. Single storefront story, readable text, natural image proportions, one primary CTA >=44px, no overflow or detached elements. Actual Omnisend/Gmail test outstanding."
+  "visualReview": "PASS: all six fresh full-page previews inspected against this hash on 2026-09-30. Fragrance banner proportional; its offer conditions repeated in readable HTML; both CTA buttons >=44px and stay with their offers. No overflow. Omnisend test and promotion stacking clarification outstanding."
 }

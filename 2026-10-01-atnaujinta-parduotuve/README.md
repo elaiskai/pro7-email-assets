@@ -13,9 +13,13 @@ Prior campaign: 2026-09-29-nauji-kvapai/newsletter.txt was inspected after fetch
 
 ## QA
 
-HTML SHA256: 7e341f9b0bc3818b66c6cbf21b85e53eab461cd1ffed1b7cbf23c2170267a934
+HTML SHA256: 8c1a36cb9b97e81a61a23d6be186be9746882b03c5062be3b00bfb105682d583
 
 Fresh full-page previews visually inspected at 600, 320, 390, 430 px, plus 320 px without head styles/font imports and 390 px dark preference. Readable copy, intact names, proportional imagery, coherent reading order and one primary CTA, no overflow, all CTA buttons >=44 px. Website screenshot is a supporting thumbnail; all essential claims and the actual CTA remain readable live HTML. Dark preference browser simulation does not verify forced inversion in an email client. Automated details in qa-results.json. Actual Omnisend/Gmail test not performed and still required before sending.
 
 Rebuild: node build.mjs
 QA: node qa.mjs, then inspect all six fresh previews and update visual signoff. Prepare downloads current official media and captures the live homepage; do not run if preserving the current artwork.
+
+## Fragrance offer addition
+
+User supplied the 2 + 1 banner and requested inclusion. Added one secondary block below the main NAUJA10 offer, not a product catalogue. Original supplied image preserved without editing, including its original baked punctuation. New HTML copy and alt text contain no dashes. Conditions: buy two different fragrances of the same type, receive a third of the same type as a gift. Banner and secondary CTA link to the official fragrance category, checked 2026-09-30. Stacking with NAUJA10 was asked but remains unconfirmed: no combined saving or stacking claim is made. Clarify before sending. Earlier single-CTA QA description refers to prior layout; current layout has one primary green CTA and one secondary outlined CTA, both reviewed.
