@@ -1,0 +1,151 @@
+{
+  "htmlSHA256": "1d57163dc6b18b80acc3f8b3a4a08c8a31f9327057daf39bbaf1ab29713dd656",
+  "cases": [
+    {
+      "name": "desktop",
+      "width": 600,
+      "scroll": 600,
+      "email": 600,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00014012404378949128,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile320",
+      "width": 320,
+      "scroll": 320,
+      "email": 320,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00016013163925077123,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile390",
+      "width": 390,
+      "scroll": 390,
+      "email": 390,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00008343763037110818,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "mobile430",
+      "width": 430,
+      "scroll": 430,
+      "email": 430,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.0001926577729545187,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "nohead320",
+      "width": 320,
+      "scroll": 320,
+      "email": 320,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00016013163925077123,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    },
+    {
+      "name": "dark390",
+      "width": 390,
+      "scroll": 390,
+      "email": 390,
+      "broken": [],
+      "ratio": [
+        0.0012465223832061056,
+        0.00008343763037110818,
+        0,
+        0,
+        0
+      ],
+      "buttons": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "overflow": []
+    }
+  ],
+  "actualInboxTest": false,
+  "visualReview": "PASS: all six full-page contact sheets inspected against this HTML hash on 2026-09-30. Intact names, readable copy, associated product photos and CTAs, proportional images, consistent spacing. Browser simulation only; Omnisend inbox test outstanding. Offer remains draft."
+}
